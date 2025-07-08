@@ -1,0 +1,529 @@
+Character	Alternate Name	Page	Role	Gender	Friendly										Hostile									Familial						
+Chapter 1: Táin Bó Cúailnge																														
+Ailill		125		M	Medb																			Anlúan	Moccorb	Cet	Én	Bascall	Dóche	
+Mágu		125	Ailill's father	M																				Ailill	Anlúan	Moccorb	Cet	Én	Bascall	Dóche
+Anlúan		125	Ailill's brother	M																				Moccorb	Cet	Én	Bascall	Dóche		
+Moccorb		125	Ailill's brother	M																				Cet	Én	Bascall	Dóche			
+Cet		125	Ailill's brother	M																				Én	Bascall	Dóche				
+Én		125	Ailill's brother	M																				Bascall	Dóche					
+Bascall		125	Ailill's brother	M																				Dóche						
+Dóche		125	Ailill's brother	M																										
+Cormac Conn Longas		125	Son of Conchobor	M	Conchobar																									
+Conchobar	Conchobor	125	King of Ulster	M																										
+Medb		125		F	Medb's charioteer																									
+Medb's charioteer		126		M																										
+Feidelm		126	Poetess/prophetess of Connacht	F	Medb																									
+Celtchar mac Uthidir		126	Mentioned in Feidelm's prophecy of the Táin	M	Feidelm																									
+Fergus mac Róich	Fergus mac Roeich meic Echdach	126	Mentioned in Feidelm's prophecy of the Táin	M	Feidelm																									
+Cú Chulainn	Cú Chulainn mac Súaldaim	127	Mentioned in Feidelm's prophecy of the Táin	M	Feidelm																									
+Silend		128	"Daughter of Madchar, where Loch Carrcín got it's name"	F																										
+Madchar		129	Father of Silend	M																				Silend						
+Chapter 2: The Story in Due Order																														
+Medb		129		F	Medb's charioteer	Fergus mac Róich																								
+Medb's charioteer		129		M																										
+Ailill	Ailill of Mag Aí	129		M	Medb	Fergus mac Róich																								
+Fergus mac Róich		129	Takes a longer route to give Ulstermen a chance to muster their army	M																										
+Cormac Conn Longas		129	son of Conchobor	M																										
+Conchobar		129		M	Cormac Conn Longas																									
+Conall Cernach		129		M																										
+Fíacha mac Fir Fhebe		129	son of Conchobor's daughter	M	Conall Cernach	Conchobar																								
+Eochu Feidlech		129	Medb's father	M	Medb																									
+Finnabair		129	daughter of Ailill and Medb	F	Medb	Ailill	Flidais																							
+Flidais		129		M																										
+Maine Máthramail		129	Medb's seven sons	M																				Medb	Maine Aithremail	Maine Mórgor	Maine Mingor	Maine Mo Epirt	Maine Andóe	Maine Cotageib Uile
+Maine Aithremail		129	Medb's seven sons	M																				Medb	Maine Mórgor	Maine Mingor	Maine Mo Epirt	Maine Andóe	Maine Cotageib Uile	
+Maine Mórgor		129	Medb's seven sons	M																				Medb	Maine Mingor	Maine Mo Epirt	Maine Andóe	Maine Cotageib Uile		
+Maine Mingor		129	Medb's seven sons	M																				Medb	Maine Mo Epirt	Maine Andóe	Maine Cotageib Uile			
+Maine Mo Epirt	Maine Milscothach	129	Medb's seven sons	M																				Medb	Maine Andóe	Maine Cotageib Uile				
+Maine Andóe		129	Medb's seven sons	M																				Medb	Maine Cotageib Uile					
+Maine Cotageib Uile		129	Medb's seven sons	M																				Medb						
+Findbenn	Finnbennach	130	Medb's bull	M																				Medb						
+Dubthach	the Boorish	131		M																										
+Cú Chulainn	Cú Chulainn mac Súaltaim	131	Gets message from Fergus warning him about Medb and Ailill	M											Eirr	Indell	Foich	Fochlam						Fergus mac Róich	Súaltaim					
+Súaltaim		131		M																										
+Feidelm Noíchride		131	"Cú Chulainn's ""concubine"""	F	Cú Chulainn																									
+Irard mac Anchinnel		132		M	Eirr	Indell	Foich	Fochlam																						
+Eirr		132	"Sons of Irard mac Anchinnel, handed Fergus Cuchulainn's with, preceded the hosts (Medb, Ailill, Fergus) to protect them"	M	Indell	Foich	Fochlam																							
+Indell		132	Sons of Irard mac Anchinnel	M	Foich	Fochlam																								
+Foich		132	"Eirr and Indell's charioteers, killed by Cuchulainn"	M	Fochlam																									
+Fochlam		132	"Eirr and Indell's charioteers, killed by Cuchulainn"	M																										
+Feidelm Banfháith		133	"Feidelm couldn't see Medb, so Medb ordered the army to chop down a wood"	F	Medb																									
+Lóeg	Láeg	133	Cú Chulainn's charioteer	M	Cú Chulainn																									
+Lug of the Fomorians	Lug mac Ethlend	134		M	Cú Chulainn																									
+Eógan mac Durthacht		135		M																										
+Chapter 3: The Eulogy of Cú Chulainn																														
+Ailill		135		M	Fergus mac Róich	Medb																								
+Fergus mac Róich		135		M	Medb																			Cú Chulainn						
+Emer		135		F	Cú Chulainn																									
+Medb		135		F																										
+Cú Chulainn		135		M																										
+Chapter 4: The Boyhood Deeds																														
+Fergus mac Róich		136	Describes Cuchulainn's boyhood deeds	M																										
+Conchobar		136		M																										
+Cú Chulainn	Sétanta	136		M											Follomon mac Conchobair									Fergus mac Róich	Conchobar					
+Follomon mac Conchobair		136	"Conchobor's son, one of the boys at Emain Macha"	M																										
+Ailill		138		M	Fergus mac Róich																									
+Chapter 5: The Death of the Boys																														
+Fergus mac Róich		138	"Recounts the time Cuchulainn killed 50 of the boys of Emain Macha, Fergus and Conchobor defended him"	M	Conchobar	Cú Chulainn																								
+Conchobar		138		M	Cú Chulainn																									
+Cú Chulainn		138		M																										
+Chapter 6: The Fight between Eógan mac Durthacht and Conchobar																														
+Eógan mac Durthacht		138		M																										
+Cú Chulainn		138		M																										
+Conchobar		138		M	Cú Chulainn																									
+Cúscraid Menn Macha		139		M																										
+Bricriu		139		M	Cú Chulainn																									
+Fergus mac Róich		139		M	Conchobar																			Cú Chulainn						
+Cúscraid mac Conchobair		139		M	Cú Chulainn																			Conchobar						
+Chapter 7: The fate of the twenty-seven men and the reason why none dared to wound the Ulstermen when they were in their debility																														
+Fergus mac Róich		139		M																										
+Cú Chulainn		140		M																				Fergus mac Róich	Súaltaim					
+Súaltaim		140		M																										
+Chapter 8: The killing of the Smith's Hound by Cú Chulainn and the reason why he is called Cú Chulainn																														
+Conall Cernach		140		M	Cú Chulainn																									
+Fergus mac Róich		140		M																										
+Culann the smith		140		M																										
+Conchobar		140	Cuchulainn's uncle	M	Culann the smith																									
+Cú Chulainn		140	Kills Culann's hound and becomes Cu Chulainn	M	Culann the smith																			Fergus mac Róich	Súaltaim	Conchobar				
+Culann's Hound		141		M	Culann the smith										Cú Chulainn															
+Cathbad		142	"Druid, names Setanta Cu Chulainn, Conchobar's father"	M	Cú Chulainn																									
+Chapter 9: Death of Nechta Scene's Three Sons																														
+Fiachu mac Fir Fhebe		142		M	Cú Chulainn																									
+Cathbad		142	Conchobar's father	M																				Conchobar						
+Conchobar		142		M																										
+Cú Chulainn		142	Took up arms	M	Cathbad																			Conchobar						
+Ibor		143	Conchobar's charioteer	M	Conchobar	Cú Chulainn																								
+Conall Cernach		143		M	Cú Chulainn	Ibor																								
+Nechta Scéne		144	from Inber Scene	F																				Fer Ulli mac Lugdach	Fóill	Fannall	Túachell			
+Fer Ulli mac Lugdach		144	Nechta Scene's husband	M																				Fóill	Fannall	Túachell				
+Fóill	Sly	144	Son of Nechta Scene	M											Cú Chulainn									Fannall	Túachell					
+Fannall	Swallow	144	Son of Nechta Scene	M											Cú Chulainn									Túachell						
+Túachell	Cunning	144	Son of Nechta Scene	M											Cú Chulainn															
+Mugain		147	Led women to meet Cu Chulainn	F	Cú Chulainn																			Conchobar						
+Férach		147	"Wife of Conchobar, led women to meet Cu Chulainn"	F	Cú Chulainn																			Conchobar						
+Chapter 10: A different Version up to the Death of Órlám																														
+Ailill		148		M	Cú Chulainn																									
+Cú Chulainn		148	Cut down a tree to obstruct Ailill's progress	M																										
+Chapter 11: The Death of Fráech																														
+Fráech	Fráech mac Idaid	148		M																										
+Medb		148		F	Fráech																									
+Cú Chulainn		148	Fights Fraech in the water	M											Fráech															
+Chapter 12: Fergus leapt across the oak-tree in his own chariot.																														
+Cú Chulainn		149		M																										
+Medb		149		F																										
+Baiscne		149		M	Medb										Cú Chulainn															
+Chapter 13: The Death of Órlám																														
+Cú Chulainn		149	Kills Orlam	M																										
+Órlám		149	Son of Ailill & Medb	M											Cú Chulainn									Ailill	Medb					
+Ailill		149		M	Medb																									
+Medb		149		F																										
+Fer Teidil	Órlám's charioteer	149		M	Órlám										Cú Chulainn															
+Chapter 14: The Death of the three Sons of Gárach																														
+Lon		150		M																				Úalu	Diliu					
+Úalu		150		M																				Diliu						
+Diliu		150		M																										
+Mes Lir		150		M	Lon	Úalu	Diliu	Mes Lóech	Mes Lethan																					
+Mes Lóech		150		M	Lon	Úalu	Diliu	Mes Lethan																						
+Mes Lethan		150		M	Lon	Úalu	Diliu																							
+Cú Chulainn		150	Kills all of Garam's sons and their charioteers	M											Lon	Úalu	Diliu	Mes Lir	Mes Lóech	Mes Lethan										
+Fer Teidil	Órlám's charioteer	150	Killed by Cu Chulainn	M											Cú Chulainn															
+Chapter 15: The Death of the Marten and of the Pet Bird																														
+Cú Chulainn		151		M																										
+Ailill		151		M	Medb																									
+Medb		151		F																										
+Medb's marten		151	"Marten on Medb's shoulder, killed by Cu Chulainn"	M	Medb										Cú Chulainn															
+Ailill's bird		151	"Ailill's pet bird, killed by Cu Chulainn"	M	Ailill										Cú Chulainn															
+Maenén the jester		151	"Jester, killed by Cu Chulainn"	M	Ailill	Medb									Cú Chulainn															
+Harpers of Caín Bile		151	"Aillil and Medb thought they were from Ulster, so they were hunted, turned into deer"	M											Ailill	Medb														
+Chapter 16: The Death of Lethan																														
+Lethan		151		M											Cú Chulainn															
+Cú Chulainn		151		M																										
+Mulcha		152	Lethan's charioteer	M	Lethan																									
+Mórrígan		152		F																										
+Black Bull		152		M																										
+Forgaimen		152		M	Black Bull																									
+Chapter 17: The Death of Lócha																														
+Medb		152		F																										
+Lócha		152	Medb's handmaid	F	Medb										Cú Chulainn															
+Cú Chulainn		152	"Mistakes Locha for Medb, kills Locha"	M																										
+Lóthar		152	Medb's cowherd	M	Medb																									
+Black Bull		152	Kills Lothar on sight	M											Lóthar															
+Chapter 18: The Death of Úalu																														
+Úalu		153	Dies in a river	M																										
+Medb		153		F																										
+Cú Chulainn		153		M											Cronn	Cóemdele	Roán	Roae												
+Cronn		153		M	Cóemdele																									
+Cóemdele		153		M																										
+Roán		153	Two historians of the Tain	M	Roae																									
+Roae		153	Two historians of the Tain	M																										
+Chapter 19: The Harrying of Cúailnge																														
+Medb		153	Splits the army in two	F	Ailill																									
+Ailill		153		M																										
+Fergus mac Róich	Fergus mac Rossa Róich	153	Sleeps with Medb	M	Medb	Ailill																								
+Cuillius		153	Ailill's charioteer	M	Ailill										Cú Chulainn															
+Cú Chulainn	Nessa's grandson	156		M											Ailill															
+Mane mac Ailella		156		M	Ailill	Medb	Fergus mac Róich																							
+Láeg		157		M	Cú Chulainn																									
+Maine		157	"Maine = Mane??, killed by Cu Chulainn"	M											Cú Chulainn									Ailill	Medb					
+Lugaid	Lugaid mac Nóis uí Lomairc Allchomaig	157		M	Cú Chulainn	Fergus mac Róich	Ailill																							
+Conchobar		158		M																				Cú Chulainn						
+Mac Roth		160	Aill and Medb's messenger	M	Medb	Ailill	Láeg																							
+Chapter 20: The death of Etarcomol and the terms offered by the men of Ireland as told to Cú Chulainn by Fergus																														
+Fergus mac Róich		160		M																										
+Etarcomol		160		M	Fergus mac Róich																			Ed	Leithrinn	Ailill	Medb			
+Ed		160		M	Leithrinn																									
+Leithrinn		160		F																										
+Ailill		160		M	Medb																									
+Medb		160		F																										
+Cú Chulainn		160		M	Fergus mac Róich										Etarcomol															
+Láeg		160		M	Cú Chulainn	Fergus mac Róich																								
+Etarcomol's charioteer		163		M	Etarcomol	Fergus mac Róich																								
+Chapter 21: The Death of Nad Crantail																														
+Cú Chulainn		163		M	Lugaid										Nad Crantail															
+Lugaid		163		M	Maine																									
+Maine		163	Son of Ailill	M																				Ailill						
+Medb		163		F	Ailill	Cú Roí mac Dáire	Nad Crantail																							
+Ailill		163		M																										
+Cú Roí mac Dáire		163		M																										
+Nad Crantail		163	Only fought for Connacht if Findabair was promised to him	M	Medb	Maine Andoí																								
+Cú Roí's follower		163		M	Medb	Maine																								
+Maine Andoí		164		M	Nad Crantail																									
+Findabair	Finnabair	164		F																				Ailill	Medb					
+Fergus mac Róich		164		M	Nad Crantail																			Cú Chulainn						
+Fíacha mac Fir Fhebe		164		M	Cú Chulainn	Fergus mac Róich																								
+Láeg		165		M	Cú Chulainn																									
+Chapter 22: The Finding of the Bull according to this Version																														
+Medb		166		F	Ailill	Buide mac Báin																								
+Cú Chulainn		166		M											Buide mac Báin															
+Buide mac Báin		166		M																										
+Ailill		166		M																										
+Chapter 23: The Death of Redg the Satirist																														
+Redg		167	Satirist	M	Ailill										Cú Chulainn															
+Ailill		167		M																										
+Cú Chulainn		167		M																										
+Nath Coirpthe		167	Killed by Cu Chulainn	M											Cú Chulainn															
+Cruthen		167	Killed by Cu Chulainn	M											Cú Chulainn															
+Meic Búachalla		167	Killed by Cu Chulainn	M											Cú Chulainn															
+Marc		167	Killed by Cu Chulainn	M											Cú Chulainn															
+Meille		167	Killed by Cu Chulainn	M											Cú Chulainn															
+Bodb		167	Killed by Cu Chulainn	M											Cú Chulainn															
+Bogaine		167	Killed by Cu Chulainn	M											Cú Chulainn															
+Focherda		167	Killed by Cu Chulainn	M											Cú Chulainn															
+Medb		167	Fought battle against Findmor	F	Ailill																									
+Findmór		167	Celtchar Mac Uthidir's wife	F											Medb															
+Celtchar mac Uthidir		167		M	Findmór																									
+Forgeman		168	"Herdman, drove bull into a narrow passage"	M	Ailill	Medb									Black bull															
+Lugaid	Lugiad	168		M	Ailill	Cú Chulainn																								
+Fergus mac Róich		168		M	Ailill																			Cú Chulainn						
+Group of Warriors sent to fight Cu Chulainn in Single Combat		168	"Medb and Ailill tried to ambush Cu Chulainn by ambushing him with 20 men simultaneously. The ambush failed. As part of a truce, Ailill and Medb sent warriors for single combat. They were all killed by Cu Chulainn."	M											Cú Chulainn															
+Chapter 24: The Meeting of Cú Chulainn and Finnabair																														
+Maine Aithremail		168		M	Láeg																									
+Láeg		168		M																										
+Ailill		169		M	Maine Aithremail	Medb																								
+Medb		169		F	Maine Aithremail																									
+Lugaid		169		M	Medb	Ailill	Cú Chulainn																							
+Cú Chulainn		169		M	Láeg																									
+Jester		169	Met Cu Chulainn while disguised as the king	M	Ailill	Medb									Cú Chulainn															
+Finnabair		169	"Maid, Cu Chulainn killed her"	F	Jester	Ailill	Medb								Cú Chulainn															
+Chapter 25: The Combat of Munremar and Cú Roí																														
+Fergus mac Róich		170		M	Ailill	Medb																								
+Ailill		170		M	Medb																									
+Medb		170		F																										
+Cú Roí mac Dáire	Cú Ruí mac Dáire	170	Fought Munremar/made peace with him 	M	Medb	Ailill																								
+Munremar mac Gerrcinn		170		M											Cú Roí mac Dáire															
+Fer Diad		170		M																										
+Cú Chulainn		170	Allowed Medb and Ailill to move camp	M	Medb	Ailill																								
+Chapter 26: The Combat of Munremar and Cú Roí																														
+Cú Chulainn		170		M	Fiachna Fuilech mac Fir Fhebi	Fíachach Fialdána mac Fir Fhebi																								
+Fiachna Fuilech mac Fir Fhebi		170		M																										
+Fíachach Fialdána mac Fir Fhebi		170	Fiachna's brother	M																				Fiachna Fuilech mac Fir Fhebi						
+Ailill		170		M	Fergus mac Róich										Fiachna Fuilech mac Fir Fhebi	Fíachach Fialdána mac Fir Fhebi														
+Fergus mac Róich		170		M																										
+Chapter 27: The Bloodless Fight of Rochad																														
+Cú Chulainn		171		M																										
+Láeg		171		M	Cú Chulainn																									
+Rochad mac Fathemain		171	Decided not to fight and married Finnabair	M	Cú Chulainn	Láeg																								
+Finnabair		171	In love with Rochad	F	Rochad mac Fathemain																			Ailill	Medb					
+Ailill		171		M	Medb	Rochad mac Fathemain																								
+Medb		171		F	Rochad mac Fathemain																									
+Fergus mac Róich		171		M	Medb	Ailill	Rochad mac Fathemain																							
+Chapter 28: The Death of the Royal Mercenaries																														
+Ailill		172		M	Medb																									
+Medb		172		F																										
+Cú Chulainn		172		M																										
+Lugaid		172		M	Medb	Ailill	Cú Chulainn																							
+Group of Mercineries sent to kill Cu Chualinn		172	Mercenaries (3 Dub and 3 Derg) sent by Medb to assassinate Cu Chulainn	M	Medb										Cú Chulainn															
+Chapter 29: The Death of Cúr				M																										
+Cúr mac Da Lath		172		M	Medb	Ailill									Cú Chulainn															
+Ailill		172		M	Medb																									
+Medb		172		F																										
+Cú Chulainn		172		M																										
+Cormac Conn Longas	Cormac Cond Longas	173		M	Cúr mac Da Lath																									
+Chapter 30: A List of Feats																														
+Cú Chulainn		173		M	Fíacha mac Fir Fhebe										Cúr mac Da Lath															
+Cúr mac Da Lath		173	Killed in single combat by Cuchulainn	M	Ailill																									
+Fíacha mac Fir Fhebe		173		M																										
+Ailill		173		M																										
+Láth mac Da Bró		173	Killed in single combat by Cuchulainn	M	Ailill										Cú Chulainn															
+Foirc mac Trí nAignech		173	Killed in single combat by Cuchulainn	M	Ailill										Cú Chulainn															
+Srubgaile mac Eóbith		173	Killed in single combat by Cuchulainn	M	Ailill										Cú Chulainn															
+Chapter 31: The Death of Feb Baeth																														
+Láeg		173	Sent to speak with Lugaid to find out who will fight Cuchulainn next	M	Cú Chulainn																									
+Cú Chulainn		173		M											Fer Báeth															
+Lugaid	Lugaid mac Nóis uí Lomairc	173		M	Láeg	Fer Báeth																								
+Fer Báeth		174	Cuchulainn's foster brother	M	Medb	Ailill																								
+Finnabair		174		F	Fer Báeth																			Ailill	Medb					
+Ailill		174		M	Medb																									
+Medb		174		F																										
+Fergus mac Róich		175		M	Medb	Ailill	Fer Báeth																	Cú Chulainn						
+Chapter 32: The Combat of Láiríne mac Nóis																														
+Lugaid	Lugaid mac Nóis uí Lomairc	175		M	Medb	Ailill																								
+Ailill		175		M	Medb																									
+Medb		175		F																										
+Finnabair		175		F																				Medb	Ailill					
+Cú Chulainn		175		M																										
+Láríne mac Nóis		176	Brother to king of munster	M	Medb	Ailill	Finnabair																							
+Lugaid King of Munster		176	Kind of munster	M	Medb	Ailill	Cú Chulainn																	Lugaid King of Munster						
+Chapter 33: The Conversation of the Mórrígan with Cú Chulainn																														
+Cú Chulainn		176		M											Mórrígan															
+Mórrígan		176	Tries to deceive Cuchulainn	F																										
+Chapter 34: The Death of Lóch Mac Mo Femis																														
+Lóch mac Emonis		177		M	M																			Long mac Ebonis						
+Long mac Ebonis		177	Loch's brother	M																										
+Cú Chulainn		177		M											Long mac Ebonis	Lóch mac Emonis	Medb	Ailill												
+Ailill		177		M	Medb																									
+Medb		177		F																										
+Lethrend		178	Ailill's groom	M	Ailill																									
+Fergus mac Róich		178		M	Medb	Ailill																		Cú Chulainn						
+Bands of warriors sent to Ambush Cu Chulainn During the Night		178	A new band of warriors were sent to fight Cu Chulainn every night in order to try catch him off guard. He killed them all.	M	Medb	Ailill									Cú Chulainn															
+Traigthrén		179	Messenger	M	Cú Chulainn	Medb																								
+Láeg		179		M	Cú Chulainn																									
+Group of Warriors sent by Medb to Ambush Cu Chulainn		179	Medb sent a group of fourteen men to ambush Cu Chulainn during their truce negotiations	M	Medb										Cú Chulainn									Biccride						
+Group of Warriors killed by Cu Chulainn while Pitching Camp		179	Killed by Cuchulainn while pitching camp in retaliation for Medb's ambush attempt	M											Cú Chulainn															
+Gabrán		180	"Poet, said there would be a lack of water"	M																										
+Bricriu Nemthenga mac Carbada		180	Incited Cuchulainn	M	Cú Chulainn																									
+Fergus mac Róich		180		M	Medb	Ailill	Gabrán																							
+Group of Warriors killed by Cu Chulainn after violating fair play		181	Violated fair play and attacked Cuchulainn simultaneously	M											Cú Chulainn															
+Chapter 35: The Healing of the Mórrígan																														
+Cú Chulainn		181		M																										
+Mórrígan		181		F											Cú Chulainn															
+Fergus mac Róich		182		M	Cú Chulainn	Medb																								
+Five men of Cend Coriss	Five men of Dún Chind Coross	182		M											Cú Chulainn															
+Fota		182	Killed by Cuchulainn in his field	M											Cú Chulainn															
+Bó Mailce		182	Killed by Cuchulainn on his ford	M											Cú Chulainn															
+Salach		182	Killed by Cuchulainn in his marsh	M											Cú Chulainn															
+Muinne		182	Killed by Cuchulainn in his stronghold	M											Cú Chulainn															
+Lúar		182	Killed by Chuchulainn in Lethbera	M											Cú Chulainn															
+Fer Toíthle		182	Killed by Cuchulainn in Toithle	M											Cú Chulainn															
+Traig		182	"Three Druids and their wives, killed by Cuchulainn"	M	Col										Cú Chulainn															
+Dorna		182	"Three Druids and their wives, killed by Cuchulainn"	M	Mebal										Cú Chulainn															
+Derna 		182	"Three Druids and their wives, killed by Cuchulainn"	M	Eraise										Cú Chulainn															
+Col		182	"Three Druids and their wives, killed by Cuchulainn"	F											Cú Chulainn															
+Mebal		182	"Three Druids and their wives, killed by Cuchulainn"	F											Cú Chulainn															
+Eraise		182	"Three Druids and their wives, killed by Cuchulainn"	F											Cú Chulainn															
+Medb		182		F											Cú Chulainn															
+Chapter 36: The Scythed Chariot and Breslech Mór Maige Muirthemne																														
+Cú Chulainn		182		M																										
+Láeg	Láeg mac Ríangabra	182		M	Cú Chulainn																									
+Lug mac Ethlend		183	Cuchulainn's father from the fairy mounds	M																				Cú Chulainn						
+Chapter 37: The Incantation of Lug																														
+Lug mac Ethlend		184	Cuchulainn's father from the fairy mounds	M																				Cú Chulainn						
+Cú Chulainn		184	"See page 187 for description of ""the great distortion"""	M																				Conchobar						
+Fallamain	Fallamain mac Conchobair	184	Son of Conchobar	M																				Conchobar						
+Conchobar		184		M																										
+Ailill		184		M											Fallamain															
+Láeg	Láeg mac Ríangabra	185		M	Cú Chulainn																									
+Simon Magnus		185		M																										
+Darius King of the Romans		185		M	Simon Magnus																									
+Group of Warriors Slaughtered by Cu Chulainn after the Boys of Emain Macha were killed		189	Slaughtered by Cuchulainn	M											Cú Chulainn															
+Chapter 38: The Description of Cú Chulainn																														
+Cú Chulainn	Cú Chulainn mac Súaltaim	189		M											Medb									Conchobar						
+Medb		189		F																										
+Dubthach Dóel Ulad		190		M	Medb										Fíacha	Coirpre								Lugaid mac Casruba						
+Fergus mac Róich		191		M	Medb	Dubthach Dóel Ulad																		Cú Chulainn						
+Fíacha		191	"Conchobar's son, killed by Dubthacht"	M																										
+Conchobar		191		M																										
+Coirpre		191	Killed by Dubthacht	M											Dubthach Dóel Ulad									Fedelmid						
+Fedelmid		191	Father of Coirpre	M																										
+Lugaid mac Casruba		191	Dbthach's father	M																				Dubthach Dóel Ulad						
+Ailill		192		M	Medb	Fergus mac Róich																								
+Chapter 39: The Mis-throw at Belach Eóin																														
+Fíacha Fíaldána Dimraith		192		M																										
+Maine Andóe		192	Son of Fiacha's mother's sister	M																				Fíacha Fíaldána Dimraith						
+Dócha mac Mágach		192		M											Fíacha Fíaldána Dimraith															
+Dubthach Dóel Ulad		192		M											Fíacha Fíaldána Dimraith															
+Diarmait mac Conchobair		192	Maine and Diarmut killed eachother	M											Maine Andóe									Conchobar						
+Conchobar		192		M																										
+Ailill		192		M	Medb	Diarmait mac Conchobair	Maine Andóe																							
+Medb		192		F	Diarmait mac Conchobair	Maine Andóe																								
+Black Bull		193		M	Medb	Ailill																								
+Chapter 40: The Death of Taman the Jester																														
+Ailill		193	"Puts his crown onn the jester, Cuchulainn kills the jester"	M																										
+Taman the Jester		193		M	Ailill																									
+Cú Chulainn	Cú Chulainn mac Súaltaim	193		M											Taman the Jester															
+Chapter 41: The Death of Óengus mac Óenláime																														
+Óengus mac Óenláime Gaibe		193	Stoned by the armu	M																										
+Lugmod Army		193		M											Óengus mac Óenláime Gaibe															
+Chapter 42: The Meeting of Fergus and Cú Chulainn																														
+Cú Chulainn	Cú Chulainn mac Súaltaim	193		M											Ailill									Fergus mac Róich						
+Fergus mac Róich		193	Refuses to go to kill Cuchulainn	M	Ailill																									
+Ailill		194		M																										
+Group of Ailill's Warriors sent to Ambush Cu Chulainn		194	"Sent to ambush Cuchulainn, he kills them all"	M	Ailill										Cú Chulainn															
+Chapter 43: The Fight with Mand																														
+Medb		194		F																										
+Mand Muresci		194	"Son of Daire, sent to fight Cuchulainn, Fer Diad's brother and Daman's brother"	M	Medb	Dubthach Dóel Ulad	Munremar mac Errcind	Triscod							Cú Chulainn									Dáire of the Domnannaig	Damán	Fer Diad				
+Dáire of the Domnannaig		194	Mand Muresci's father	M																										
+Cú Chulainn		194	Kills Mand	M	Fíacha mac Fir Fhebe																			Conchobar						
+Damán		194		M																										
+Fer Diad		194		M																				Damán						
+Dubthach Dóel Ulad		194	Compared to Mand	M																										
+Munremar mac Errcind		194	Compared to Mand	M																										
+Triscod		194	"Conchobar's strongman, compared to Mand"	M																										
+Conchobar		194		M	Triscod																									
+Láeg	Láeg mac Ríangabra	194		M	Cú Chulainn																									
+Gaile Dáne		195	"Twenty-seven sons and sisters sons, attacked Cuchulainn"	M											Cú Chulainn	Fíacha mac Fir Fhebe														
+Fíacha mac Fir Fhebe		195	Killed the twenty-seven men	M																										
+Two Sons of Ficce		195	Helped Cuchulainn to kill people	M	Cú Chulainn																									
+Chapter 44: The Fight of Fer Diad and Cú Chulainn																														
+Cú Chulainn		195	Hears that Fer Dias will be sent to fight him	M																				Fer Diad						
+Fer Diad	Fer Diad mac Damáin	195	Cuchulainn's foster brother	M																										
+Medb	Medb of Mag in Scáil	195		F	Fer Diad																									
+Ailill		195		M	Medb	Fer Diad																								
+Finnabair		196		F	Fer Diad																			Medb	Ailill					
+Fergus mac Róich	Fergus mac Róig	198	Refuses to go to kill Cuchulainn	M	Ailill	Fer Diad																		Cú Chulainn						
+Fergus' Charioteer		198		M	Fergus mac Róich																									
+Láeg	Láeg mac Ríangabra	198		M	Cú Chulainn	Fergus mac Róich																								
+Emer Fholtchaín		201	Cuchulainn spent night with Emer before fight with Fer Diad	F	Cú Chulainn																									
+Fer Diad's Charioteer		202		M	Fer Diad																									
+Germán Garbglas		203	Charioteer recites a story of Cuhculainn and Fer Diad fighting German	M											Fer Diad	Cú Chulainn														
+"Chapter 45: A description of Cú Chulainn's chariot, one of the three principal chariots in story-telling, on the Foray of Cúailnge"																														
+Fer Diad	Fer Diad mac Damáin	204	Cuchulainn's foster brother	M																										
+Fer Diad's Charioteer		204		M	Fer Diad																									
+Cú Chulainn		204		M											Fer Diad															
+Mac Roth		208	Chased after Cuchulainn and Fer Diad during their battle	M	Cú Chulainn	Fer Diad																								
+Chapter 46: The Chief Episodes of the Táin																														
+																														
+Chapter 47: The Hard Fight of Cethern																														
+Mac Roth		209	Chased after Cuchulainn and Fer Diad during their battle	M																										
+Ailill		209		M	Medb										Cethern															
+Fergus mac Róich	Fergus mac Róig	209		M	Ailill										Cethern															
+Cethern		209	Son of Fintan	M																				Fintan						
+Fintan		209		M																										
+Cú Chulainn		209	Cethern came from attacking Ailill's camp to Cuchulainn	M	Cethern																			Conchobar						
+Láeg	Láeg mac Ríangabra	209		M	Cú Chulainn	Cethern																								
+Fiacha mac Fir Fhebe		209		M	Láeg	Cú Chulainn	Cethern																							
+Fíngin		209	Physician	M	Cethern	Conchobar																								
+Conchobar		209		M																										
+Medb		210		F	Ailill										Cethern															
+Illann		210	Son of Fergus	M											Cethern									Fergus mac Róich						
+Oll		210	Foster sons of Ailill and Medb	M											Cethern									Ailill	Medb					
+Oichne		211	Foster sons of Ailill and Medb	M											Cethern									Ailill	Medb	Oll				
+Bun		211	Kings household warriors	M											Cethern															
+Mecon		211	Kings household warriors	M											Cethern															
+King of Caill		211		M	Bun	Mecon																								
+Bróen		211	Warriors of Medb's household	M	Medb										Cethern															
+Láiréne		211	Warriors of Medb's household	M	Medb										Cethern															
+3 Warriors of Banba		211		M	Cú Raí mac Dáire										Cethern															
+Cú Raí mac Dáire	Cú Roí mac Dáire	211		M																										
+Scenb		211		M	Ailill	Medb									Cethern															
+Rand		211		M	Ailill	Medb									Cethern															
+Fodail		211		M	Ailill	Medb									Cethern															
+Three Fráech Baíscnes		212	Medb's tableservants	M	Medb										Cethern															
+Cormac Colomon ind Ríg		212		M											Cethern									Cormac Maíle Ogath						
+Cormac Maíle Ogath		212		M											Cethern															
+Maine Aithremail		212		M											Cethern									Maine Máithremail						
+Maine Máithremail		212		M											Cethern															
+Maine Condasgeb Uile		212	Ailill's son	M											Cethern									Ailill						
+Chapter 48: The Tooth-Fight of Fintan																														
+Fintan		214		M	Ailill																									
+Ailill		214		M																										
+Cethern		214	Son of Fintan	M	Ailill																			Fintan						
+Conchobar		214		M	Fintan																									
+Chapter 49: The Red Shame of Mend																														
+Mend mac Sálchada		214	Killed his own men	M																										
+Chapter 50: The Bloodless Fight of Rochad																														
+Rochad Rigderg mac Faithemain		214		M																										
+Ailill		214		M	Medb																									
+Medb		214		F																										
+Finnabair		214	"There was a large-scale battle to take revenge for seven men all being offered Finnabair, she died of shame"	F	Rochad Rigderg mac Faithemain																			Medb	Ailill					
+Fergus mac Róich	Fergus mac Róig	209		M	Ailill	Medb																								
+Chapter 51: The Humorous Fight of Iliach																														
+Lóegaire Búadach		215		M	Dócha mac Mágach																			Iliach						
+Connad Buide meic Iliach		215		M																				Lóegaire Búadach	Iliach					
+Iliach		215		M											Dócha mac Mágach															
+Dócha mac Mágach		215		M																										
+Chapter 52: The Missile-throwing of the Charioteers																														
+																														
+Chapter 53: The Trance of Aimirgin																														
+Cú Roí mac Dáire	Cú Raí mac Dáire	216		M	Aimirgin										Cú Chulainn									Conall Cernach						
+Cú Chulainn		216	 	M																										
+Aimirgin		216		M																										
+Conall Cernach		216	Cu Rois son	M																										
+Chapter 54: The Repeated Warning of Súaltaim																														
+Súaltaim		216		M	Conchobar																			Cú Chulainn						
+Cú Chulainn		216		M																				Conchobar						
+Conchobar		217		M																										
+Fergus mac Róich	Fergus mac Róig	217		M	Ailill	Medb																								
+Ailill		217		M	Medb																									
+Medb		217		F																										
+Chapter 55: The Muster of the Ulstermen																														
+Finchad		218		M																										
+Conchobar		218		M																										
+Group of Warriors Gathered to fight alongside Conchobar in the Tain		218		M	Conchobar	Finchad																								
+Erc		219		M	Conchobar																			Cairbre Nia Fer	Feidelm Noíchride					
+Cairbre Nia Fer	Cairpre Nia Fer	219		M	Feidelm Noíchride																									
+Feidelm Noíchride		219		F																										
+Chapter 56: The Vision of Dubthach																														
+																														
+Chapter 57: The Trance of Ailill																														
+																														
+Chapter 58: The March of the Companies																														
+Fergus mac Róich	Fergus mac Róig	220		M	Ailill	Medb																								
+Ailill		220		M	Medb																									
+Medb		220		F																										
+Mac Roth		220		M	Ailill	Medb	Fergus mac Róich																							
+Conchobar		222		M	Sencha mac Ailella																			Cúscraid Menn Macha						
+Sencha mac Ailella		222		M																										
+Cúscraid Menn Macha		222	Conchobar's son	M																										
+Eógan mac Durrthacht		222	King of Farney	M	Conchobar																									
+Lóegaire Búadach mac Connaid meic Iliach		223		M	Conchobar																									
+Munremar mac Gerrcinn	Munremur mac Gerrcind	223		M	Conchobar																									
+Feidlimid Cilair Cétaig		224		M	Conchobar																									
+Connad mac Mornai		224		M	Conchobar																									
+Rochad mac Fathemain	Rochaid mac Faithemain	224		M	Ailill	Medb	Finnabair	Conchobar																						
+Finnabair		224		F	Rochad mac Fathemain																			Ailill	Medb					
+Fergus mac Leiti		225		M	Conchobar																									
+Amorgene mac Eccetsalaig		225		M	Conchobar																									
+Celtchair mac Cuithechair		225		M	Conchobar																									
+Eirrge Echbél		226		M	Conchobar																									
+Fiachna		226		M	Conchobar																			Conchobar						
+Fíacha		226		M	Conchobar																			Conchobar						
+Rys		227		M	Conchobar																									
+Imchad		227		M	Conchobar																									
+Dáire		227		M	Conchobar																									
+Menn mac Sálchada		227		M	Conchobar																									
+Fergna mae Findchoíme		227		M	Conchobar																									
+Furbaide Fer Benn		228		M	Conchobar																									
+Erc		228		M																				Cairpre Nia Fer	Conchobar					
+Cairpre Nia Fer		228		F	Conchobar																									
+Cú Chulainn		228		M																				Conchobar						
+Láeg	Láeg mac Ríangabra	229		M	Cú Chulainn																									
+Chapter 59: The Muster of the Men of Ireland																														
+Traigthrén		230		M	Ailill																									
+Ailill		230		M																										
+Group of Warriors sent to fight alongside Ailill and Medb in the Tain		232		M	Ailill	Traigthrén																								
+Cú Chulainn		232		M											Ailill	Medb								Fergus mac Róich						
+Láeg		232		M	Cú Chulainn																									
+Óen		233	Conall Cernach's chariteer	M	Conall Cernach																									
+Conall Cernach		233		M																										
+Medb		233		F	Ailill																									
+Fergus mac Róich		233		M	Ailill	Medb																								
+Badb		234		M	Bé Néit	Mémain																								
+Bé Néit		234		M	Mémain																									
+Mémain		234		M																										
+Conchobar		234		M											Ailill	Medb	Fergus mac Róich							Cú Chulainn						
+Cormac		235		M	Fergus mac Róich																			Conchobar						
+Bricriu Nemthenga		237	Trampelled by bull	M											Donn Cúailnge															
+Donn Cúailnge		237		M											Finnbennach															
+Finnbennach	Findbenn	237		M																										
+Dáire		237		M	Donn Cúailnge																									

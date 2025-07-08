@@ -1,0 +1,666 @@
+Character	Alternate Names		Page	Role	Gender	Friendly															Hostile																	
+Before the Táin																																						
+Scene 1: How the Táin was found																																						
+Senchán Torpéist	Senchán			"Poet, wanted to get the poets of Ireland together to get a complete version of the Táin"	M	Emine	Muirgen																															
+Emine				"Ninéne's Grandson, set out with Muirgen to the land of Letha to learn a version of the Táin"	M	Ninéne	Muirgen	Senchán																														
+Ninéne						Emine																																
+Muirgen				Senchán's son	M	Emine	Senchán	Fergus Mac Roich																														
+Fergus Mac Roich				Muirgen prayed at his grave	M	Muirgen																																
+Scene 2: Conchobor																																						
+Nes	Nessa			Daughter of Eochaid Sálbuide	F	Eochaid Sálbuide	Cathbad	Conchobor	Fergus Mac Roich																													
+Eochaid Sálbuide						Nes																																
+Cathbad				"Druid, father of Conchobor"	M	Nes	Conchobor																															
+Conchobor	Conchobhar Mac Nessa				M	Cathbad	Nes	Fergus Mac Roich	Gerg																													
+Fergus Mac Roich					M	Nes	Conchobor																															
+Gerg						Conchobor																																
+Scene 3: The Pangs of Ulster																																						
+Crunniuc	Crunniuc Mac Agnomain			"Husband of Macha, son of Agnoman, son of Curir Ulad, Fiatach mac Urmi"	M	Macha	Agnoman	Curir Ulad	Fiatach Mac Urmi																													
+Agnoman						Crunniuc	Curir Ulad	Fiatach Mac Urmi																														
+Curir Ulad				"It is from he that province of Ulster took its name, son of Fiatach mac Urmi"		Crunniuc	Agnoman	Fiatach Mac Urmi																														
+Fiatach Mac Urmi						Crunniuc	Agnoman	Curir Ulad													Conchobor																	
+Macha				Caused the pangs of Ulster	F	Crunniuc	Conchobor	Sainrith Mac Imbaith																														
+Sainrith Mac Imbaith						Macha																																
+Conchobor						Macha															Macha																	
+Furc				"The pangs of Ulster ended in his time, he is the son of Dallán, son of Mainech mac Lugdach"	M	Dallán	Mainech Mac Lugdach																															
+Dallán						Furc	Mainech Mac Lugdach																															
+Mainech Mac Lugdach						Furc	Dallán																															
+Scene 4: Exile of the Sons of Uisliu																																						
+Fedlimid Mac Daill	Fedlimid			Conchobor's storyteller	M	Conchobor	Cathbad	Fedlimid's wife																														
+Fedlimid's wife						Fedlimid	Sencha Mac Ailella	Cathbad	Derdriu																													
+Sencha Mac Ailella				Asks for Fedlimid's wife to be brought forward after the child in her womb screams	M	Fedlimid	Fedlimid's wife	Conchobor																														
+Cathbad	plus cathbad links in this section			Cathbad mentions a lot of other characters in this propecy	M	Fedlimid	Conchobor	Derdriu	Uisliu	Noisiu	Fergus Mac Roich	Roech	Fiachna Mac Conchoboir	Eoghan Mac Durthacht	Fedlimid's wife	Fedelm																						
+Conchobor					M	Derdriu	Noisiu	Dubthach	Cormac 2	Eoghan Mac Durthacht	Fedlimid's wife	Noisiu									Noisiu	Anle	Ardán	Eoghan Mac Durthacht	Derdriu													
+Derdriu	Deirdre			Deirdre of the Sorrows	F	Leborcham	Noisiu	Ardán	Ainlé		Conchobor	Fergus Mac Roich	Fedlimid	Fedlimid's wife	Ardán	Anle	King of Alba				Eoghan Mac Durthacht	Conchobor																
+Leborcham				Tells Deirdre of Naoise after she sees the three colours	F	Derdriu	Noisiu	Uisliu																														
+Noisiu	Naoise			Son of Usna who elopes with Deirdre	M	Uisliu	Derdriu	Cathbad	Conchobor	Fergus Mac Roich	Dubthach	Cormac 2	Fiacha 3	Ardán	Anle	King of Alba					Conchobor	King of Alba	Eoghan Mac Durthacht															
+Uisliu	Usna			"Father of Naoise, Ardán and Ainlé"	M	Noisiu	Ardán	Anle																														
+King of Alba						Noisiu	Ardán	Anle	Derdriu												Noisiu	Ardán	Anle															
+Fergus Mac Roich					M	Fiacha 3	Dubthach	Cormac 2		Ailill Mac Mágach	Medb										Traigthrén																	
+Dubthach				Warrior of Ulster who Conchobor sent with Fergus to 'greet' the Sons of Usna	M	Fergus Mac Roich	Cormac 2		Ailill Mac Mágach	Medb											Maine 3																	
+Gerrce						Illadan	Eoghan Mac Durthacht																															
+Illadan						Gerrce	Eoghan Mac Durthacht																															
+Eoghan Mac Durthacht				"King of Fernmag, he was chosen to kill the sons of Usna to made peace with Conchobor"	M		Conchobor	Fiacha 3				Gerrce	Illadan								Conchobor	Noisiu	Ardán	Ainlé	Fiacha 3	Derdriu												
+Cormac 2				Son of Conchobor who sided with Fergus after Conchobor betrayed the Sons of Usna	M	Conchobor	Fergus Mac Roich	Dubthach	Noisiu	Ailill Mac Mágach	Medb																											
+Fiacha 3				Son of Fergus who was killed trying to protect Naoise	M	Fergus Mac Roich	Noisiu	Eoghan Mac Durthacht													Eoghan Mac Durthacht																	
+Maine 3				Son of Conchobor who Dubthach slew after discovering Conchobor's treachery	M	Conchobor															Dubthach																	
+Fiachna 1				"Grandson of Conchobor, killed in Fergus and Dubthach's attack"	M	Fedelm	Conchobor																															
+Fedelm				"Conchobor's sister, mother of Fiachna"	F	Conchobor	Fiachna 1																															
+Traigthrén				"Son of Traiglethan, killed by Fergus"	M	Traiglethan															Fergus Mac Roich																	
+Traiglethan						Traigthrén																																
+Ardán						Noisiu	Anle	Uisliu	Derdriu	King of Alba											Conchobor	King of Alba	Eoghan Mac Durthacht															
+Anle						Ardán	Noisiu	Uisliu	Derdriu	King of Alba											Conchobor	King of Alba	Eoghan Mac Durthacht															
+Scene 5: How Cúchulainn was begotten																																						
+Conchobor					M	Deichtine	Conall Cernach	Laegaire	Bricriu	Finnchaem	Cúchulainn	Sencha Mac Ailella	Fergus Mac Roich	Blai Bruige	Amargin	Morann																						
+Deichtine				Sister of Conchobor	F	Conchobor	Cúchulainn	Lug Mac Ethnenn	Sualdam Mac Roich	Lug Mac Ethenn																												
+Sualdam	Sualdam Mac Roich			"Husband of Deichtine, who sort of fathered Cúchulainn"	M	Deichtine	Conchobor	Cúchulainn																														
+Conall Cernach				Ulster Warrior	M	Conchobor	Laegaire	Bricriu	Deichtine																													
+Laegaire				Ulster Warrior	M	Conchobor	Conall Cernach	Bricriu	Deichtine																													
+Bricriu				Ulster Warrior	M	Conchobor	Conall Cernach	Laegaire	Deichtine	Finnchaem																												
+Lug Mac Ethenn						Deichtine																																
+Finnchaem				Sister of Conchobor	F	Conchobor	Conall Cernach	Cúchulainn	Bricriu	Deichtine																												
+Sencha Mac Ailella				He wanted to raise Sétanta	M	Conchobor	Finnchaem	Cúchulainn	Blai Bruige	Fergus Mac Roich	Amargin																											
+Blai Bruige				A landed man who also wanted to raise Sétanta	M	Conchobor	Finnchaem	Cúchulainn	Sencha Mac Ailella	Fergus Mac Roich	Amargin																											
+Fergus Mac Roich					M	Conchobor	Finnchaem	Cúchulainn	Sencha Mac Ailella	Blai Bruige	Amargin																											
+Amargin				"An Ulster Warrior who also wanted to raise Sétanta, Finnchaem's husband"	M	Conchobor	Finnchaem	Cúchulainn	Fergus Mac Roich	Sencha Mac Ailella	Blai Bruige																											
+Morann				A judge who decided how Sétanta should be raised	M	Conchobor	Finnchaem	Cúchulainn	Sencha Mac Ailella	Blai Bruige	Fergus Mac Roich	Amargin	Conall Cernach																									
+Scene 6: Cúchulainn's Courtship of Emer																																						
+Conchobor						Conall Cernach	Fergus Mac Roich	Laegaire	Celtchar	Dubthach	Cúchulainn	Scél	Bairdene	Cathbad	Bricriu	Emer																						
+Conall Cernach				"The triumphant, son of Amargin"	M	Amargin	Conchobor	Fergus Mac Roich	Laegaire	Celtchar	Dubthach	Cúchulainn	Scél																									
+Fergus Mac Roich				The bravest of the brave	M	Conchobor	Conall Cernach	Laegaire	Celtchar	Dubthach	Cúchulainn	Scél	Cathbad	Bricriu	Emer																							
+Laegaire	Laegaire Buadach			"The victorious, son of Connad"	M	Connad	Conchobor	Conall Cernach	Fergus Mac Roich	Celtchar	Dubthach	Cúchulainn	Scél																									
+Connad	Connad the Yellow-haired	Connad Buidi				Laegaire																																
+Celtchar	Celtchar Mac Uthidir				M	Conchobor	Conall Cernach	Fergus Mac Roich	Laegaire	Dubthach	Cúchulainn	Scél																										
+Dubthach	Dubthach Mac Lugdach				M	Conchobor	Conall Cernach	Fergus Mac Roich	Laegaire	Celtchar	Cúchulainn	Scél																										
+Cúchulainn	Cúchulainn Mac Sualdaim	Sétanta			M	Sualdam	Conchobor	Conall Cernach	Fergus Mac Roich	Laegaire	Celtchar	Dubthach	Scél	Emer	Laeg	Forgall Manach	Domnall Míldemail	Scáthach	Uathach		Cochar Cruibne	Cuar	Cat 2	Crufe	Ciri	Biri	Blaince	Aife	Eis Enchenn	Scibar	Ibor	Cat 3	Forgall Manach	Scenmenn				
+Cúchulainn						Cúar	Cat 1	Lugaid Mac Nois		Aife					Connla	Bricriu	Cathbad																					
+Scél				A great story teller who is the son of Bairdene	M	Bairdene	Conchobor	Conall Cernach	Fergus Mac Roich	Laegaire	Celtchar	Dubthach	Cúchulainn																									
+Bairdene				Door-keeper of Emain Macha	M	Scél	Conchobor																															
+Emer				A girl Cúchulainn sought after in the Gargens of Lug	F	Cúchulainn	Forgall Manach	Scibar	Ibor	Cat 3	Conchobor	Cathbad	Bricriu	Fergus Mac Roich																								
+Forgall Manach				"The cunning, Emer's father. Died by falling while trying to run away from Cúchulainn"	M	Emer	Cúchulainn	Conchobor	Domnall Míldemail	Scáthach	Lugaid Mac Nois	Scibar	Ibor	Cat 3																								
+Laeg	Laeg Mac Riangabra			Cúchulainn's charioteer	M	Cúchulainn																																
+Domnall Míldemail				"The war-like, in the land of Alba. Forgall said Cúchulainn would fight better if he trained with him and Scáthach"	M	Cúchulainn	Scáthach																															
+Scáthach				"The Shadowy One, Forgall said Cúchulainn should train in martial arts with her. She was also a prophetess"	F	Cúchulainn	Uathach	Cochar Cruibne	Cúar	Cat 1	Aife	Medb	Ailill Mac Mágach								Aife																	
+Uathach				Scáthach's daughter	F	Scáthach	Cúchulainn																															
+Cochar Cruibne				One of Scáthach's champions who Cúchulainn killed	M	Scáthach	Uathach														Cúchulainn																	
+Cúar				One of Scáthach's two sons	M	Scáthach	Uathach	Cúchulainn													Cuar	Cat 2	Crufe	Ciri	Biri	Blaince												
+Cat 1				One of Scáthach's two sons	M	Scáthach	Uathach	Cúchulainn													Cuar	Cat 3	Crufe	Ciri	Biri	Blaince												
+Lugaid Mac Nois				"From Munster, son of the great king Alamiach, and a foster-brother of Cúchulainn"	M	Alamiach	Cúchulainn	Coirpre Niafer Mac Rosa Rugaid			Forgall Manach	Emer																										
+Alamiach				The great king	M	Lugaid Mac Nois																																
+Coirpre Niafer Mac Rosa Rugaid				Lugaid Mac Nois came to woo his twelve daughters	M	Lugaid Mac Nois																																
+Aife				A chief at war with Scáthach	F		Cúchulainn	Cuar	Cat 2	Crufe	Connla										Cúchulainn	Scáthach																
+Cuar				"One of the three sons of Ilsúanach, and a soldier of Aife, Cúchulainn slew them"	M	Ilsúanach	Cat 2	Crufe	Aife												Cúchulainn	Cúar	Cat 1															
+Cat 2				"One of the three sons of Ilsúanach, and a soldier of Aife, Cúchulainn slew them"	M	Ilsúanach	Cuar	Crufe	Aife												Cúchulainn	Cúar	Cat 1															
+Crufe				"One of the three sons of Ilsúanach, and a soldier of Aife, Cúchulainn slew them"	M	Ilsúanach	Cuar	Cat 2	Aife												Cúchulainn	Cúar	Cat 1															
+Ilsúanach				"Father of Cuar, Cat 2 and Crufe, warriors of Aife who Cúchulainn slew"	M	Cuar	Cat 2	Crufe																														
+Ciri				"One of the three sons of Eis Enchenn, and a soldier of Aife, Cúchulainn slew them"	M	Eis Enchenn	Biri	Blaince	Aife												Cúchulainn	Cúar	Cat 1															
+Biri				"One of the three sons of Eis Enchenn, and a soldier of Aife, Cúchulainn slew them"	M	Eis Enchenn	Ciri	Blaince	Aife												Cúchulainn	Cúar	Cat 1															
+Blaince				"One of the three sons of Eis Enchenn, and a soldier of Aife, Cúchulainn slew them"	M	Eis Enchenn	Ciri	Biri	Aife												Cúchulainn	Cúar	Cat 1															
+Eis Enchenn				"The bird-headed, father of Ciri, Biri and Blaince who Cúchulainn slew, Cúchulainn killed her as she attempted to avenge her sons"	F	Ciri	Biri	Blaince													Cúchulainn																	
+Connla				"Cúchulainn and Aife's son, he is to reveal his name to no one"	M	Cúchulainn	Aife																															
+Scibar				One of Emer's three brothers	M	Emer	Forgall Manach		Ibor	Cat 3											Cúchulainn																	
+Ibor				One of Emer's three brothers	M	Emer	Forgall Manach		Scibar	Cat 3											Cúchulainn																	
+Cat 3				One of Emer's three brothers	M	Emer	Forgall Manach		Ibor	Scibar											Cúchulainn																	
+Scenmenn				A warrior of Forgall who Cúchulainn slew giving the name Ath Scenmenn (Scenmenn's Ford) to the place he died.	M	Emer	Forgall Manach														Cúchulainn																	
+Bricriu	Bricriu Mac Carbad				M	Conchobor	Cúchulainn	Emer	Cathbad																													
+Cathbad					M	Conchobor	Cúchulainn	Emer	Bricriu	Fergus Mac Roich																												
+Scene 7: The Death of Aife's one Son																																						
+Cúchulainn					M	Connla	Aife	Emer													Connla																	
+Connla					M	Condere	Conall Cernach	Cúchulainn	Scáthach												Condere	Conall Cernach	Cúchulainn															
+Conchobor					M	Condere	Connla	Cúchulainn																														
+Condere				An eloquent warrior of Ulster with good sense who Conchobor sends out to meet Connla and tell him he cannot land	M	Conchobor	Connla														Connla																	
+Conall Cernach					M	Conchobor	Connla														Connla																	
+Emer					F	Cúchulainn	Forgall Manach																															
+Scene 8: The Quarrel of the two Pig-keepers																																						
+Ochall Ochne				King of the síd in Cruachan Connacht	M	Bodb	Rucht														Bodb																	
+Bodb				King of the síd on Femen Plain in Munster	M	Ochall Ochne	Friuch	Rucht													Ochall Ochne																	
+Friuch				Pig-keeper of Bodb	M	Bodb	Rucht														Rucht																	
+Rucht				Pig-keeper of Ochall	M	Ochall Ochne	Friuch														Friuch																	
+Mongán Mac Fiachna				A shapechanger																																		
+Fuidell Mac Fiadmire				Ochall's steward	M	Ochall Ochne	Bodb	Friuch	Rucht																													
+Finnbennach Ai				The white bull	M	Rucht																																
+Donn Cuailnge				The brown bull	M	Friuch																																
+The Táin																																						
+Chapter 1: Pillow Talk																																						
+Ailill Mac Mágach				"King of Connacht in Cruachan, a son of Rus Ruad"	M	Medb	Rus Ruad	Finnbennach Ai	Mata Muiresc	Finn 2	Coirpre Niafer	Mac Roth																										
+Medb				Quenn of Connacht in Cruachan	F	Ailill Mac Mágach	Eochaid Feidlech	Derbriu	Ethne 2	Ele	Clothru	Muguin 4	Finn 2	Coirpre Niafer	Conchobor	Eochaid Bec	Rus Ruad	Mac Roth	Dáire Mac Fiachna	Donn Cuailnge																		
+Eochaid Feidlech				"High King of Ireland, the son of Finn, son of Finngoll, son of Roth, son of Rigéon, son of Blathacht, son of Beothacht, son of Enna Agnech, son of Aengus Turbech. He had six daughters; Derbriu, Ethne, Ele, Clothru, Muguin and Medb."	M	Finn 1	Finnoman	Finnen	Blathacht	Beothacht	Enna Agnech	Aengus Turbech	Derbriu	Ethne 2	Ele	Clothru	Muguin 4	Medb																				
+Finn 1				Medb's ancestor	M	Eochaid Feidlech	Finngoll	Rigéon	Blathacht	Beothacht	Enna Agnech	Aengus Turbech																										
+Finngoll				Medb's ancestor	M	Roth	Finn	Blathacht	Beothacht	Enna Agnech	Aengus Turbech																											
+Roth				Medb's ancestor	M	Rigéon	Finngoll	Beothacht	Enna Agnech	Aengus Turbech																												
+Rigéon				Medb's ancestor	M	Blathacht	Roth	Enna Agnech	Aengus Turbech	Beothacht																												
+Blathacht				Medb's ancestor	M	Beothacht	Rigéon	Enna Agnech	Aengus Turbech																													
+Beothacht				Medb's ancestor	M	Enna Agnech	Blathacht	Aengus Turbech																														
+Enna Agnech				Medb's ancestor	M	Aengus Turbech	Beothacht																															
+Aengus Turbech				Medb's ancestor	M	Enna Agnech																																
+Derbriu				Medb's sister	F	Ethne 2	Ele	Clothru	Muguin	Medb	Eochaid Feidlech																											
+Ethne 2				Medb's sister	F	Derbriu	Ele	Clothru	Muguin	Medb	Eochaid Feidlech																											
+Ele				Medb's sister	F	Derbriu	Ethne 2	Clothru	Muguin	Medb	Eochaid Feidlech																											
+Clothru				Medb's sister	F	Derbriu	Ethne 2	Ele	Muguin	Medb	Eochaid Feidlech																											
+Muguin				Medb's sister	F	Derbriu	Ethne 2	Ele	Clothru	Medb	Eochaid Feidlech																											
+Finn 2				"The king of Leinster, Rus Ruad's son, who was sent to woo Medb"	M	Rus Ruad	Medb	Coirpre Niafer																														
+Coirpre Niafer				"The king of Temair, another of Rus Ruad's sons also was sent to woo Medb"	M	Rus Ruad	Medb	Finn 2																														
+Rus Ruad				"Father of Aililll, Finn and Coirpre Niafer"	M	Ailill Mac Mágach	Coirpre Niafer	Rus Ruad	Medb																													
+Conchobor				Son of Fachtna	M	Medb	Fachtna 2																															
+Fachtna 2						Conchobor																																
+Eochaid Bec						Medb																																
+Mata Muiresc				"Ailill's mother, Mágach's daughter"	F	Ailill Mac Mágach	Mágach																															
+Finnbennach Ai				The bull was part of Medb's herd but did not wish to be led by a woman so went to Ailill's herd	M	Ailill Mac Mágach	Medb																															
+Mac Roth				A messenger of Medb	M	Medb	Ailill Mac Mágach	Dáire Mac Fiachna	Donn Cuailnge	Finnbennach Ai																												
+Dáire Mac Fiachna				Owner of Donn Cuailnge	M	Donn Cuailnge	Mac Roth																															
+Chapter 2: The Táin Bó Cuailnge begins																																						
+Ailill Mac Mágach					M	Medb	Anluan Mac Mágach	Mugcorb Mac Mágach	Cet Mac Mágach	En Mac Mágach	Bascall Mac Mágach	Dóchae Mac Mágach																										
+Medb					F	Ailill Mac Mágach	Cormac Connlongas	Fedelm 3	Fergus Mac Roich	Conchobor	Celtchar																											
+Mágach				"Had 7 sons, one of them being Ailill Mac Mágach"		Ailill Mac Mágach	Anluan Mac Mágach	Mugcorb Mac Mágach	Cet Mac Mágach	En Mac Mágach	Bascall Mac Mágach	Dóchae Mac Mágach																										
+Anluan Mac Mágach						Ailill Mac Mágach	Mágach	Mugcorb Mac Mágach	Cet Mac Mágach	En Mac Mágach	Bascall Mac Mágach	Dóchae Mac Mágach																										
+Mugcorb Mac Mágach						Ailill Mac Mágach	Mágach	Anluan Mac Mágach	Cet Mac Mágach	En Mac Mágach	Bascall Mac Mágach	Dóchae Mac Mágach																										
+Cet Mac Mágach						Ailill Mac Mágach	Mágach	Anluan Mac Mágach	Mugcorb Mac Mágach	En Mac Mágach	Bascall Mac Mágach	Dóchae Mac Mágach																										
+En Mac Mágach						Ailill Mac Mágach	Mágach	Anluan Mac Mágach	Mugcorb Mac Mágach	Cet Mac Mágach	Bascall Mac Mágach	Dóchae Mac Mágach																										
+Bascall Mac Mágach						Ailill Mac Mágach	Mágach	Anluan Mac Mágach	Mugcorb Mac Mágach	Cet Mac Mágach	En Mac Mágach	Dóchae Mac Mágach																										
+Dóchae Mac Mágach						Ailill Mac Mágach	Mágach	Anluan Mac Mágach	Mugcorb Mac Mágach	Cet Mac Mágach	En Mac Mágach	Bascall Mac Mágach																										
+Conchobor					M	Cormac Connlongas																																
+Cormac Connlongas	Cormac 2			"Leader of the Ulster exiles, Conchobor's son"	M	Conchobor	Ailill Mac Mágach	Medb																														
+Fedelm 3	Fedelma			A poet and prophetess of Connacht who prophetices that Medb's invasion would fail	F	Medb	Cúchulainn	Deda Mac Sin																														
+Deda Mac Sin						Fedelm 3																																
+Fergus Mac Roich				"Son of Roech Mac Echdach, grandson of Rus the king of kings, he is one of the Ulster exiles"	M	Roech Mac Echdach	Medb																															
+Roech Mac Echdach						Fergus Mac Roich																																
+Chapter 3: The army encounters Cúchulainn																																						
+Medb					F	Ailill Mac Mágach	Fergus Mac Roich	Cormac Connlongas	Conall Cernach	Fiacha Mac Fir Febe	Finnabair	Flidais	Maine Máthramail	Maine Athramail	Maine Mórgor	Maine Míngor	Maine Móepirt	Maine Andoe	Maine Cotagaib Uli																			
+Ailill Mac Mágach					M	Medb	Fergus Mac Roich	Cormac Connlongas	Conall Cernach	Fiacha Mac Fir Febe	Finnabair	Flidais	Maine Máthramail	Maine Athramail	Maine Mórgor	Maine Míngor	Maine Móepirt	Maine Andoe	Maine Cotagaib Uli		Conchobor	Celtchar	Eoghan Mac Durthacht															
+Ailill Mac Mágach						Err	Innel	Foich	Fochlam																													
+Fergus Mac Roich					M	Medb	Ailill Mac Mágach	Cormac Connlongas	Conall Cernach	Fiacha Mac Fir Febe	Finnabair	Flidais	Cúchulainn	Sualdam	Err	Innel	Foich	Fochlam	Conchobor																			
+Fergus Mac Roich						Celtchar	Eoghan Mac Durthacht	Emer	Scáthach																													
+Cormac Connlongas					M	Medb	Ailill Mac Mágach	Fergus Mac Roich	Conall Cernach	Fiacha Mac Fir Febe	Finnabair	Flidais																										
+Conall Cernach				Ulster exile	M	Medb	Ailill Mac Mágach	Fergus Mac Roich	Cormac Connlongas	Fiacha Mac Fir Febe	Finnabair	Flidais																										
+Fiacha Mac Fir Febe				"The son of Conchobor's daughter, also an Ulster exile"	M	Medb	Ailill Mac Mágach	Fergus Mac Roich	Cormac Connlongas	Conall Cernach	Finnabair	Flidais																										
+Finnabair				Daughter of Medb and Ailill	F	Medb	Ailill Mac Mágach	Fergus Mac Roich	Cormac Connlongas	Conall Cernach	Fiacha Mac Fir Febe	Flidais																										
+Flidais					F	Medb	Ailill Mac Mágach	Fergus Mac Roich	Cormac Connlongas	Conall Cernach	Fiacha Mac Fir Febe	Finnabair																										
+Celtchar																					Ailill Mac Mágach																	
+Eoghan Mac Durthacht																					Ailill Mac Mágach																	
+Maine Máthramail				The Motherlike	M	Medb	Ailill Mac Mágach																															
+Maine Athramail				The Fatherlike	M	Medb	Ailill Mac Mágach																															
+Maine Mórgor				The strongly dutiful	M	Medb	Ailill Mac Mágach																															
+Maine Míngor				The sweetly dutiful	M	Medb	Ailill Mac Mágach																															
+Maine Móepirt	Maine Milscothach			Of the honeyed speech	M	Medb	Ailill Mac Mágach																															
+Maine Andoe				The swift	M	Medb	Ailill Mac Mágach																															
+Maine Cotagaib Uli				"The Maine with all the qualities, who took the likeness of his mother and father, and the dignity of both"	M	Medb	Ailill Mac Mágach																															
+Dubthach					M	Medb	Ailill Mac Mágach	Nemain																														
+Nemain				"A war-spirit, she assailed the Connacht army after Dubthach chanted during the Táin."	F	Dubthach																																
+Cúchulainn					M	Sualdam	Fergus Mac Roich	Fedelm Noichride					Laeg								Err	Innel	Foich	Fochlam														
+Sualdam					M	Cúchulainn	Fergus Mac Roich																															
+Fedelm Noichride				Cúchulainn told Sualdam to warn Ulster because he had promised to spend the night with Fedelm	F	Cúchulainn																																
+Err				One of the four sons of Urard Mac Anchinne	M	Innel	Foich	Fochlam	Urard Mac Anchinne	Medb	Fergus Mac Roich		Ailill Mac Mágach								Cúchulainn																	
+Innel				One of the four sons of Urard Mac Anchinne	M	Err	Foich	Fochlam	Urard Mac Anchinne	Medb	Fergus Mac Roich		Ailill Mac Mágach								Cúchulainn																	
+Foich				"One of the four sons of Urard Mac Anchinne, charioteer of Err"	M	Err	Innel	Fochlam	Urard Mac Anchinne	Medb	Fergus Mac Roich		Ailill Mac Mágach								Cúchulainn																	
+Fochlam				"One of the four sons of Urard Mac Anchinne, charioteer of Innel"	M	Err	Innel	Foich	Urard Mac Anchinne	Medb	Fergus Mac Roich		Ailill Mac Mágach								Cúchulainn																	
+Urard Mac Anchinne				Had four sons who were among the first Cúchulainn killed during the Táin	M	Err	Innel	Foich	Fochlam																													
+Laeg					M	Cúchulainn																																
+Conchobor					M	Ailill Mac Mágach																																
+Celtchar					M	Ailill Mac Mágach																																
+Eoghan Mac Durthacht					M	Ailill Mac Mágach																																
+Chapter 4: Cúchulainn's boyhood deeds																																						
+Fergus Mac Roich					M	Cúchulainn	Conchobor	Cúchulainn	Ailill Mac Mágach	Medb	Conall Cernach	Cúscraid Menn Macha																										
+Cúchulainn					M	Deichtine	Fergus Mac Roich	Conchobor	Sualdam	Bricriu		Cúscraid Menn Macha	Conall Cernach	Culann	Cathbad	Ibor 3					Follamain	Badb 1	Nechta Scéne	Foill	Fannall	Tuachell												
+Conchobor					M	Follamain	Cúchulainn	Deichtine	Sualdam	Cúscraid Menn Macha	Culann	Cathbad	Ibor 3								Eoghan Mac Durthacht																	
+Follamain				"Conchobor's son, part of the boy-troop in Ulster when Cúchulainn joined"	M	Conchobor															Cúchulainn																	
+Eoghan Mac Durthacht					M																Conchobor																	
+Cúscraid Menn Macha	Cúscraid Menn			"The Stammerer, son of Conchobor"	M	Conchobor	Cúchulainn	Fergus Mac Roich																														
+Bricriu						Cúchulainn																																
+Badb 1					F																Cúchulainn																	
+Conall Cernach					M	Cúchulainn	Fergus Mac Roich	Culann	Ailill Mac Mágach	Medb	Ibor 3																											
+Culann				An Ulster smith who owned a savage hound	M	Conchobor	Cúchulainn	Cathbad																														
+Cathbad				Gave Sétanta the name Cúchulainn	M	Conchobor	Cúchulainn	Culann																														
+Fiacha Mac Fir Febe					M	Cúchulainn	Cathbad	Conchobor	Ibor 3	Mughain 4																												
+Ibor 3				Conchobor's Charioteer	M	Conchobor	Cúchulainn														Nechta Scéne	Foill	Fannall	Tuachell														
+Nechta Scéne				"Mother of Foill, Fannall and Tuachell who say they have killed as many Ulstermen as are now living"	F	Fer Ulli	Foill	Fannall	Tuachell												Cúchulainn	Ibor 3																
+Fer Ulli				"Son of Lugaid and father of Foill, Fannall and Tuachell. Ulstermen killed him so his sons were at enmity with him"	M	Lugaid 6	Nechta Scéne	Foill	Fannall	Tuachell																												
+Lugaid 6						Fer Ulli																																
+Foill				"The deceitfulness, son of Fer Ulli and Nechta Scéne"	M	Fer Ulli	Nechta Scéne	Fannall	Tuachell												Cúchulainn	Ibor 3																
+Fannall				"The Swallow, son of Fer Ulli and Nechta Scéne"	M	Fer Ulli	Nechta Scéne	Foill	Tuachell												Cúchulainn	Ibor 3																
+Tuachell				"The Cunning, son of Fer Ulli and Nechta Scéne"	M	Fer Ulli	Nechta Scéne	Foill	Fannall												Cúchulainn	Ibor 3																
+Mughain 4				"Wife of Conchobor, she was sent out with the women of Emain Macha naked to calm Cúchulainn down from his battle fever"	F	Conchobor	Cúchulainn																															
+Chapter 5: Death Death!																																						
+Ailill Mac Mágach					M	Orlám	Fertedil	Maine 2	Maenén												Cúchulainn																	
+Cúchulainn					M																Fraech Mac Fidaig	Orlám	Baiscne	Fertedil	Lon Mac Gárach	Uala Mac Gárach	Diliu Mac Gárach	Meslir	Meslaech	Meslethan	Ailill Mac Mágach	Medb	Maine 2	Maenén	Lethan	Lochu		
+Medb					F	Fraech Mac Fidaig		Orlám	Fertedil	Lochu											Cúchulainn																	
+Fraech Mac Fidaig				"Medb sent him to challenge Cúchulainn, Cúchulainn defeated him and offered to spare him but he told him he wouldn't have that so Cúchulainn drowned him"	M	Medb															Cúchulainn																	
+Fergus Mac Roich					M																																	
+Baiscne				A young hound belonged to Medb that Cúchulainn killed withh a sling		Medb															Cúchulainn																	
+Orlám				A son of Ailill and Medb who Cúchulainn beheaded	M	Ailill Mac Mágach	Medb	Fertedil													Cúchulainn																	
+Fertedil				Orlám's charioteer who Cúchulainn killed with his sling after returning Orlám's head to Ailill and Medb eventhough he promised not to kill him saying he'd no problem with charioteers	M	Orlám	Ailill Mac Mágach	Medb	Cúchulainn												Cúchulainn																	
+Gárach				"Had three sons, Lon, Uala and Diliu who Cúchulainn killed during the Táin"	M	Lon Mac Gárach	Uala Mac Gárach	Diliu Mac Gárach	Meslir	Meslaech	Meslethan																											
+Lon Mac Gárach				"The blackbird, son of Gárach"	M	Gárach	Uala Mac Gárach	Diliu Mac Gárach	Meslir	Meslaech	Meslethan										Cúchulainn																	
+Uala Mac Gárach				"The prideful, son of Gárach"	M	Gárach	Lon Mac Gárach	Diliu Mac Gárach	Meslir	Meslaech	Meslethan										Cúchulainn																	
+Diliu Mac Gárach				"The torrent, son of Gárach"	M	Gárach	Lon Mac Gárach	Uala Mac Gárach	Meslir	Meslaech	Meslethan										Cúchulainn																	
+Meslir				Charioteer of one of the sons of Gárach	M	Gárach	Lon Mac Gárach	Uala Mac Gárach	Diliu Mac Gárach	Meslaech	Meslethan										Cúchulainn																	
+Meslaech				Charioteer of one of the sons of Gárach	M	Gárach	Lon Mac Gárach	Uala Mac Gárach	Diliu Mac Gárach	Meslir	Meslethan										Cúchulainn																	
+Meslethan				Charioteer of one of the sons of Gárach	M	Gárach	Lon Mac Gárach	Uala Mac Gárach	Diliu Mac Gárach	Meslir	Meslaech										Cúchulainn																	
+Maine 2				One of the seven Maine who was killed with Cúchulainn's sling	M	Ailill Mac Mágach	Medb	Maenén													Cúchulainn																	
+Maenén				A jester Cúchulainn killed with his sling	M	Ailill Mac Mágach	Maine 2														Cúchulainn																	
+Lethan				"Some Connacht warrior annoyed at Cúchulainn, Cúchulainn cut off his head"	M	Mulca															Cúchulainn																	
+Mulca				Lethan's charioteer	M	Lethan																																
+Morrígan					F	Donn Cuailnge																																
+Donn Cuailnge					M	Forgaimen	Morrígan																															
+Forgaimen				Donn Cuailnge's herdsman	M	Donn Cuailnge																																
+Lochu				A maid of Medb who Cúchulainn mistook for Medb and killed her with a sling	F	Medb															Cúchulainn																	
+Reuin			Page 96																		Cúchulainn																	
+Chapter 6: From Finnabair Chuailnge to Conaille																																						
+Medb					F	Lóthar	Donn Cuailnge	Uala	Ailill Mac Mágach	Fergus Mac Roich	Maine 2																											
+Lóthar				"A herdsman of Medb was asked where he thought Donn Cuailnge might be when the Connacht army couldn't find him at Cuailnge, Donn Cuailnge killed him when he was found"	M	Medb															Donn Cuailnge																	
+Donn Cuailnge					M																Lóthar																	
+Uala				"The river Cronn rose up against the Connacht army, Medb ordered Uala to try to cross it but the river overwhelmed him and he drowned"	M	Medb																																
+Cúchulainn					M					Laeg				Lugaid Mac Nois	Fergus Mac Roich						Cronn	Caemdele	Roan	Roae	Maine 2	Cuillius												
+Cronn				Cúchulainn killed him as he tried to cross the river Cronn (same name as person) in heroic fury		Medb	Caemdele														Cúchulainn																	
+Caemdele				Cúchulainn killed him as he tried to cross the river Cronn in heroic fury		Medb	Cronn														Cúchulainn																	
+Roan				"One of the two chroniclers of the Táin in the Connacht army, they were both killed at the river Cronn by Cúchulainn in heroic fury"		Medb	Roae														Cúchulainn																	
+Roae				"One of the two chroniclers of the Táin in the Connacht army, they were both killed at the river Cronn by Cúchulainn in heroic fury"		Medb	Roan														Cúchulainn																	
+Ailill Mac Mágach					M	Medb	Fergus Mac Roich	Cuillius	Maine 2	Lugaid Mac Nois																												
+Fergus Mac Roich					M	Medb	Ailill Mac Mágach	Macha	Nes	Lugaid Mac Nois																												
+Roech Mac Echdach																																						
+Rus																																						
+Cuillius				"Ailill's charioteer who Ailill asked to spy on Medb and Fergus as he didn't trust them, Cuillius found them sleeping together and stole Fergus' sword to give to Ailill as a sign, he was later killed by a sling from Cúchulainn"	M	Ailill Mac Mágach	Fergus Mac Roich	Medb																														
+Maine 2					M	Ailill Mac Mágach	Medb	Fergus Mac Roich													Cúchulainn	Cúchulainn																
+Laeg					M	Cúchulainn																																
+Lugaid Mac Nois	Lugaid Mac Nois Allchomaig			"He went to Cúchulainn asking him to spare his men, Cúchulainn said he would and spare Fergus' men too"	M	Cúchulainn	Fergus Mac Roich	Ailill Mac Mágach																														
+Chapter 7: Single Combat																																						
+Cúchulainn					M	Laeg	Mac Roth	Conchobor	Fergus Mac Roich		Ailill Mac Mágach	Medb	Lugaid Mac Nois		Fiacha Mac Fir Febe						Etarcomol	Nadcranntail																
+Ailill Mac Mágach					M	Cúchulainn	Mac Roth	Fergus Mac Roich	Medb	Maine 2	Lugaid Mac Nois																											
+Mac Roth					M	Ailill Mac Mágach	Medb	Fergus Mac Roich	Laeg	Cúchulainn																												
+Fergus Mac Roich					M	Cúchulainn	Mac Roth	Ailill Mac Mágach	Etarcomol		Nadcranntail	Fiacha Mac Fir Febe																										
+Laeg					M	Cúchulainn	Mac Roth	Fergus Mac Roich	Etarcomol	Nadcranntail																												
+Etarcomol				"Son of Eda and Léthrenn, foster-son of Ailill and Medb, he went with Fergus to discuss the terms of single combat with Cúchulainn, Fergus didn't want him to go with him as he described him as proud and insolent, while meeting Cúchulainn he said he'd be the first to meet him in single combat, Cúchulainn split him from his head to his naval"	M	Eda	Léthrenn	Fergus Mac Roich			Medb	Ailill Mac Mágach									Cúchulainn																	
+Eda						Etarcomol	Léthrenn																															
+Léthrenn						Etarcomol	Eda																															
+Medb					F	Fergus Mac Roich	Etarcomol	Ailill Mac Mágach	Maine 2	Lugaid Mac Nois	Cúchulainn	Cúroi Mac Dáire	Nadcranntail																									
+Lugaid Mac Nois				Lugaid went to Cúchulainn telling him who would be fighting him the next day in single combat	M	Cúchulainn	Maine 2	Ailill Mac Mágach	Nadcranntail																													
+Maine 2					M	Ailill Mac Mágach	Lugaid Mac Nois		Medb																													
+Cúroi Mac Dáire				"A warrior of Munster who marched with the Connacht army, he refused to go into single combat with Cúchulainn saying he had done enough for Connacht by sending his men with them"	M	Medb	Ailill Mac Mágach	Cúchulainn																														
+Nadcranntail				"Medb's second choice of warriors to fight Cúchulainn in single combat after Cúroi refused, Nadcranntail said he would only do it if Medb gave him his daughter Finnabair"	M	Medb	Ailill Mac Mágach		Finnabair	Maine Andoe											Cúchulainn																	
+Maine Andoe					M	Medb	Ailill Mac Mágach	Nadcranntail	Finnabair																													
+Finnabair				Medb and Ailill's daughter who was promised to whoever defeated Cúchulainn in single combat	F	Medb	Ailill Mac Mágach	Nadcranntail																														
+Fiacha Mac Fir Febe					M	Fergus Mac Roich	Cúchulainn	Nadcranntail																														
+Chapter 8: The Bull is found																																						
+Medb					F	Gabrán	Ailill Mac Mágach	Cúr Mac Daláth	Ferbaeth	Finnabair											Finnmór																	
+Ailill Mac Mágach					M	Buide Mac Báin	Redg	Medb	Fergus Mac Roich	Lugaid Mac Nois	Ferbaeth	Finnabair	Gabrán																									
+Cúchulainn					M	Fergus Mac Roich		Morrígan	Gabrán	Fiacha Mac Fir Febe	Lugaid Mac Nois	Ferbaeth	Scáthach	Laeg							Buide Mac Báin	Redg	Nathcoirpthe	Cruithen	Marc	Meille	Badb 3	Boguine	Cúr Mac Daláth	Láth Mac Dabró	Foirc Mac trí n-Aignech	Srúbgaile Mac Eobith	Ferbaeth	Láréne Mac Nois	Morrígan	Lóch Mac Mofemis	Long Mac Mofemis	
+Buide Mac Báin				"One of Ailill's men who found the bull, Cúchulainn slew him with a spear"	M	Ailill Mac Mágach	Forgaimen														Cúchulainn																	
+Forgaimen						Buide Mac Báin																																
+Redg				"Ailill's satarist who was asked to get Cúchulainn's javelin, Cúchulainn threw it through his head"	M	Ailill Mac Mágach															Cúchulainn																	
+Nathcoirpthe				"Cúchulainn killed him in Cuib, near the trees that are named after him"	M																Cúchulainn																	
+Cruithen				"Cúchulainn killed him in Cuib, in the ford that bears his name"	M																Cúchulainn																	
+Marc				Cúchulainn killed him in Cuib on his hillock	M																Cúchulainn																	
+Meille				Cúchulainn killed him in Cuib on his hill	M																Cúchulainn																	
+Badb 3				Cúchulainn killed him in Cuib in his tower	M																Cúchulainn																	
+Boguine				Cúchulainn killed him in Cuib in his marsh	M																Cúchulainn																	
+Finnmór				"Wife of Celtchar Mac Uthidir, Medb attacked her and captured 50 of her women"	F	Celtchar															Medb																	
+Celtchar						Finnmór																																
+Forgaimen				"Donn Cuailnge's herdsman, he was killed trying to escape with Donn Cuailnge, they drove the herd after him and he was trampled to death"	M	Donn Cuailnge																																
+Cúr Mac Daláth				"He was the second warrior sent to fight Cúchulainn in single combat, when he drew blood from a man, that man died in nine days at the latest. Medb said he would be no loss as it is no pleasure to be near him. Cúchulainn threw an apple through his head."	M		Medb	Cormac Connlongas													Cúchulainn																	
+Cormac Connlongas					M	Cúr Mac Daláth																																
+Fiacha Mac Fir Febe					M	Cúchulainn	Cúr Mac Daláth	Ferbaeth																														
+Fergus Mac Roich					M	Cúr Mac Daláth	Cúchulainn	Cormac Connlongas	Fiacha Mac Fir Febe	Ferbaeth	Ailill Mac Mágach	Long Mac Mofemis	Bricriu																									
+Láth Mac Dabró				The third warrior to fight Cúchulainn in single combat	M																Cúchulainn																	
+Foirc Mac trí n-Aignech				"Descendent of the three Swift Ones, he was the fourth to fight Cúchulainn in single combat"	M																Cúchulainn																	
+Srúbgaile Mac Eobith				The fifth warrior to fight Cúchulainn in single combat	M																Cúchulainn																	
+Laeg					M	Cúchulainn	Lugaid Mac Nois	Finnabair																														
+Lugaid Mac Nois					M	Laeg	Cúchulainn	Ferbaeth	Finnabair	Ailill Mac Mágach																												
+Ferbaeth				"A comrade of Cúchulainn and Lugaid who also trined with Scáthach, he agreed to fight Cúchulainn in single combat for Finnabair, Cúchulainn threw a piece of split holly at him piercing the back of his head and came out his mouth"	M	Finnabair	Medb	Ailill Mac Mágach	Cúchulainn	Scáthach	Fiacha Mac Fir Febe										Cúchulainn																	
+Finnabair					F	Ferbaeth	Medb	Ailill Mac Mágach																														
+Láréne Mac Nois				"Brother of Lugaid and described as a vainglorious man, Lugaid asked Cúchulainn not to kill him, he is said to be the only man Cúchulainn left alive in the Táin, though forever after he couldn't empty his bowels, he was never free from chest pains and couldn't eat without groaning."	M	Lugaid Mac Nois	Finnabair	Medb	Ailill Mac Mágach												Cúchulainn																	
+Morrígan				"Appears to Cúchulainn as a young woman of noble figure claiming to be king Buan's daughter, he refuses her and she says she'll hinder him"	F	King Buan	Cúchulainn														Cúchulainn																	
+King Buan						Morrígan																																
+Lóch Mac Mofemis				"He was asked to fight Cúchulainn but refused to fight a boy, his brother, Long, was sent and killed, Cúchulainn wore a fake beard and then Lóch fought him, Morrígan aided him but Cúchulainn still defeated him. It seems he too was trained by Scáthach too (check)"	M	Long Mac Mofemis	Medb	Ailill Mac Mágach		Morrígan	Scáthach	Gabrán									Cúchulainn																	
+Long Mac Mofemis				"He fought Cúchulainn after his brother Lóch refused, his body was brought back to Long"	M	Lóch Mac Mofemis	Medb	Ailill Mac Mágach													Cúchulainn																	
+Gabrán				A poet who prophecised there would be a great stampede across the ford where Cúchulainn and Lóch Mac Mofemis were to fight.		Lóch Mac Mofemis	Cúchulainn	Medb	Ailill Mac Mágach																													
+Bricriu					M	Lóch Mac Mofemis	Cúchulainn	Fergus Mac Roich																														
+Chapter 9: The Pact is Broken																																						
+Medb					F	Ailill Mac Mágach	Cúchulainn	Lugaid Mac Nois	Traigthrén 2																													
+Ailill Mac Mágach					M	Medb	Cúchulainn	Lugaid Mac Nois	Finnabair	Tamun	Fergus Mac Roich										Follamain																	
+Cúchulainn					M	Lugaid Mac Nois	Medb	Ailill Mac Mágach	Traigthrén 2	Laeg	Nemain	Lug Mac Ethenn	Follamain	Conchobor							Fota	Bómailce	Salach	Muinne	Luar	Fertóithle	Traig	Dornu	Dernu	Col	Mebul	Eraise	Tamun	Finnabair				
+Lugaid Mac Nois					M	Medb	Ailill Mac Mágach	Cúchulainn	Finnabair																													
+Traigthrén 2				"The strong of foot, a messenger of Medb sent to offer Cúchulainn a false offer of peace and to meet Medb unarmeed"	M	Medb	Cúchulainn	Laeg																														
+Laeg					M	Cúchulainn	Traigthrén 2	Lug Mac Ethenn																														
+Fergus Mac Roich					M	Cúchulainn	Ailill Mac Mágach																															
+Fota				"A warrior Cúchulainn killed in single combat, the field he was killed in is now named after him"	M																Cúchulainn																	
+Bómailce				"A warrior Cúchulainn killed in single combat, the ford he was killed at is now named after him"	M																Cúchulainn																	
+Salach				"A warrior Cúchulainn killed in single combat, the marsh he was killed at is now named after him"	M																Cúchulainn																	
+Muinne				"A warrior Cúchulainn killed in single combat, the hill he was killed on is now named after him"	M																Cúchulainn																	
+Luar				A warrior Cúchulainn killed in single combat in Luar Lethbera	M																Cúchulainn																	
+Fertóithle				A warrior Cúchulainn killed in single combat in Tóitli	M																Cúchulainn																	
+Traig				"Foot, a druid Cúchulainn slew on the near side of the ford of Tír Mór"	M	Dornu	Dernu	Col	Mebul	Eraise											Cúchulainn																	
+Dornu				"Fist, a druid Cúchulainn slew on the near side of the ford of Tír Mór"	M	Traig	Dernu	Col	Mebul	Eraise											Cúchulainn																	
+Dernu				"Palm, a druid Cúchulainn slew on the near side of the ford of Tír Mór"	M	Traig	Dornu	Col	Mebul	Eraise											Cúchulainn																	
+Col				"Lust, wife of one of the three druids Cúchulainn slew on the near side of the ford of Tír Mór"	F	Traig	Dornu	Dernu	Mebul	Eraise											Cúchulainn																	
+Mebul				"Shame, wife of one of the three druids Cúchulainn slew on the near side of the ford of Tír Mór"	F	Traig	Dornu	Dernu	Col	Eraise											Cúchulainn																	
+Eraise				"Nothingness, wife of one of the three druids Cúchulainn slew on the near side of the ford of Tír Mór"	F	Traig	Dornu	Dernu	Col	Mebul											Cúchulainn																	
+Finnabair					F		Tamun														Cúchulainn																	
+Tamun				"The Stump, the fool of Ailill who he sent to dress up as him and give Finnabair to Cúchulainn, Cúchulainn knew by his speech he was a fool and knocked out his brains with his sling"	M	Finnabair															Cúchulainn																	
+Nemain						Cúchulainn																																
+Lug Mac Ethenn					M	Cúchulainn	Laeg																															
+Fiachna Fuilech				"The Bloodspiller, brother of Fiacha Fialdána Mac Fir Febe, a member of the boy-troop of Ulster who suggested they aid Cúchulainn"	M	Fiacha Mac Fir Febe	Cúchulainn	Follamain																														
+Follamain	Follamain Mac Conchoboir			"Conchobor's son, led the boy-troop, he was killed by the two sons of Bethe Mac Báin, Ailill's foster-mother and foster-father"	M	Fiachna Fuilech	Cúchulainn	Conchobor													Ailill Mac Mágach																	
+Bethe Mac Báin				"Ailill's foster-father, he had two sons who killed Follamain Mac Conchoboir during the Táil"	M	Ailill Mac Mágach																																
+Simon Magus				"Some say he made a feather mantle for Darius king of the Romans who in turn gave it to Conchobor, Conchobor gave it to Cúchulainn who gave it to Laeg"	M	Darius																																
+Darius				"King of the Romans who was said to have been given a feathery mantle by Simon Magus, Darius then gave it ti Conchobor"	M	Simon Magus	Conchobor																															
+Conchobor					M	Darius	Cúchulainn																															
+Chapter 10: Combat with Fergus and others																																						
+Cúchulainn					M	Fergus Mac Roich				Fiacha Mac Fir Febe											Ferchu Loingseach	Gaile Dána	Glas Mac Delga															
+Medb					F	Cúchulainn	Léthren	Fergus Mac Roich	Dubthach	Ailill Mac Mágach	Gabrán	Ferchu Loingseach																										
+Ailill Mac Mágach					M	Léthren	Dubthach	Medb	Cúchulainn	Gabrán	Ferchu Loingseach																											
+Léthren				Ailill's groom		Medb	Ailill Mac Mágach		Dubthach	Fergus Mac Roich	Gabrán																											
+Fergus Mac Roich					M	Medb	Dubthach	Ailill Mac Mágach	Léthren	Cúchulainn	Conchobor	Fiacha Mac Conchoboir	Coirpre Mac Feidlimid	Gabrán	Fiacha Mac Fir Febe																							
+Dubthach					M	Fergus Mac Roich		Medb	Ailill Mac Mágach	Léthren	Gabrán	Fiacha Fialdána	Maine Andoe	Dóchae Mac Mágach							Coirpre Mac Feidlimid	Fiacha Mac Conchoboir	Dóchae Mac Mágach															
+Fiacha Mac Conchoboir				Son of Conchobor who Dubthach slew (probably during the exile of the Sons of Usna)	M	Fergus Mac Roich	Conchobor														Dubthach																	
+Coirpre Mac Feidlimid				Someone Dubthach slew (probably during the exile of the Sons of Usna) which Fergus was annoyed at him for	M	Fergus Mac Roich															Dubthach																	
+Gabrán						Cúchulainn	Medb	Ailill Mac Mágach	Léthren	Fergus Mac Roich	Dubthach																											
+Fiacha Fialdána				Cousin of Maine Andoe (so cousin of all 7 Maine)	M	Maine Andoe	Medb	Ailill Mac Mágach	Dóchae Mac Mágach	Dubthach											Dóchae Mac Mágach	Maine Andoe																
+Maine Andoe					M	Fiacha Fialdána	Dóchae Mac Mágach	Dubthach													Dóchae Mac Mágach																	
+Dóchae Mac Mágach	Dóchae				M	Fiacha Fialdána	Maine Andoe	Dubthach													Dubthach	Fiacha Fialdána																
+Diarmait				"Conchobor's son, after Ulster rose from it's pangs he came south to meet one of the Maine, they killed eachother with javelins"	M	Conchobor	Maine 2			Dubthach											Maine 2																	
+Conchobor					M	Fiacha Mac Conchoboir	Diarmait																															
+Maine 2					M	Medb	Ailill Mac Mágach	Diarmait													Diarmait																	
+Aengus				"Son of Aenlám Gaibe, an Ulster warrior refused to let the Connacht army pass at Muig Loga until he was overwhelmed"	M	Aenlám Gaibe																																
+Aenlám Gaibe																																						
+Ferchu Loingseach				"A Connacht warrior who was forever harassing Ailill and Medb and pillaging and plundering around their borders, he thought if he killed Cúchulainn he would be forgiven so attacked him with some of his men, Cúchulainn cut all twleve of their heads off"	M	Medb	Ailill Mac Mágach														Cúchulainn																	
+Gaile Dána				"He had 27 sons, Medb sent them with his sister's son to kill Cúchulainn, their spears were poisoned but none of them drew blood from Cúchulainn, Fiacha Mac Fir Febe arrived and cut off all 29 of their hands to aid Cúchulainn"	M	Medb	Ailill Mac Mágach	Glas Mac Delga													Cúchulainn	Fiacha Mac Fir Febe																
+Glas Mac Delga				"Nephew of Gaile Dána, he went with Gaile and his 27 sons to fight Cúchulainn. Fiacha Mac Fir Febe came to Cúchulainn's aid cutting off all 29 of their hands"	M	Gaile Dána															Cúchulainn	Fiacha Mac Fir Febe																
+Fiacha Mac Fir Febe					M	Fergus Mac Roich	Cúchulainn														Gaile Dána	Glas Mac Delga																
+Ficce				An Ulster man who had two sons who aided Cúchulainn track down and kill Gaile Dána and his 27 sons and nephew after Fiacha Mac Fir Febe cut of their hands	M																																	
+Chapter 11: Combat of Ferdia and Cúchulainn																																						
+Cúchulainn					M	Laeg	Fergus Mac Roich	Ferdia	Damán Mac Dáiri	Badb	Conchobor	Emer	Ferbaeth	Scáthach	Uathach	Aife	Lugaid	Conall Cernach	Connla	Banba	Ferdia	Germán Garblas	Ferbaeth	Srúbdaire	Rinn Mac Niuil													
+Medb					F	Ferdia	Ailill Mac Mágach	Finnabair	Cúchulainn	Niaman	Morann 2	Coirpre nia Manann																										
+Ailill Mac Mágach					M	Medb	Ferdia	Finnabair	Cúchulainn																													
+Ferdia	Ferdia Mac Damáin			"Cúchulainn's foster-brother, the only feat he lacked that Cúchulainn had was the gae bolga. Cúchulainn calls him 'Squinter'"	M	Medb	Ailill Mac Mágach	Finnabair	Cúchulainn	Lugaid	Damán Mac Dáiri	Badb	Ferbaeth	Scáthach	Uathach	Aife					Cúchulainn	Germán Garblas	Ruad Mac Forniuil	Dam Dreimend	Dan Dílenn													
+Finnabair					F	Medb	Ailill Mac Mágach	Ferdia	Cúchulainn																													
+Niaman				"The Slaughterer, before Ferdia would fight Cúchulainn he wanted to test his strenght on 6 Connacht heroes, Medb suggested Niaman as one"		Medb																																
+Morann 2				"Before Ferdia would fight Cúchulainn he wanted to test his strenght on 6 Connacht heroes, Medb suggested Morann as one"		Medb																																
+Coirpre nia Manann				"Before Ferdia would fight Cúchulainn he wanted to test his strenght on 6 Connacht heroes, Medb suggested Coirpre as one"		Medb																																
+Fergus Mac Roich					M	Ferdia	Cúchulainn																															
+Damán Mac Dáiri				Ferdia's father	M	Ferdia	Cúchulainn																															
+Laeg					M	Cúchulainn	Emer	Ferdia																														
+Emer					F	Cúchulainn	Laeg																															
+Badb 1					F	Ferdia	Cúchulainn																															
+Germán Garblas				A warrior (monster) Cúchulainn and Ferdia fought together while they were with Scáthach		Rinn Mac Niuil	Ruad Mac Forniuil	Bláth Mac Colbaí	Mugairne	Dam Dreimend	Dan Dílenn										Ferdia	Cúchulainn	Scáthach															
+Scáthach					F	Ferdia	Cúchulainn	Uathach	Aife												Germán Garblas																	
+Uathach					F	Ferdia	Cúchulainn	Scáthach	Aife																													
+Aife					F	Ferdia	Cúchulainn	Uathach	Scáthach																													
+Ferbaeth					M	Cúchulainn	Ferdia	Lugaid													Cúchulainn	Bláth Mac Colbaí																
+Srúbdaire				Someone Cúchulainn mentions he killed in single combat (possibly Srúbgaile Mac Eobith??)	M																Cúchulainn																	
+Rinn Mac Niuil				A warrior Cúchulainn killed when he and Ferdia along with Ferbaeth and Lugaid attacked Germán Garblas' fort	M	Germán Garblas	Ruad Mac Forniuil	Bláth Mac Colbaí	Mugairne	Dam Dreimend	Dan Dílenn										Cúchulainn																	
+Ruad Mac Forniuil				A warrior Ferdia killed when he and Cúchulainn along with Ferbaeth and Lugaid attacked Germán Garblas' fort	M	Germán Garblas	Rinn Mac Niuil	Bláth Mac Colbaí	Mugairne	Dam Dreimend	Dan Dílenn										Ferdia																	
+Bláth Mac Colbaí				"A warrior Ferbaeth killed when he attacked Germán Garblas' fort with Cúchulainn, Ferdia and Lugaid"	M	Germán Garblas	Rinn Mac Niuil	Ruad Mac Forniuil	Mugairne	Dam Dreimend	Dan Dílenn										Ferbaeth																	
+Mugairne				"A warrior Lugaid killed when he attacked Germán Garblas' fort with Cúchulainn, Ferdia and Ferbaeth"		Germán Garblas	Rinn Mac Niuil	Ruad Mac Forniuil	Bláth Mac Colbaí	Dam Dreimend	Dan Dílenn										Lugaid																	
+Dam Dreimend				A warrior Ferdia killed when he and Cúchulainn along with Ferbaeth and Lugaid attacked Germán Garblas' fort		Germán Garblas	Rinn Mac Niuil	Ruad Mac Forniuil	Bláth Mac Colbaí	Mugairne	Dan Dílenn										Ferdia																	
+Dan Dílenn				A warrior Ferdia killed when he and Cúchulainn along with Ferbaeth and Lugaid attacked Germán Garblas' fort		Germán Garblas	Rinn Mac Niuil	Ruad Mac Forniuil	Bláth Mac Colbaí	Mugairne	Dam Dreimend										Ferdia																	
+Lugaid				Probably Lugaid Mac Nois though I'm not sure he was with Cúchulainn while he was with Scáthach	M	Cúchulainn	Ferdia	Ferbaeth																														
+Banba					F	Cúchulainn																																
+Chapter 12: Ulster rises from its pangs																																						
+Senoll Uathach				"The Hideous, he and the two sons of Ficce brought Cúchulainn back to Conaille to nurse his wounds after his fight with Ferdia"		Ficce	Cúchulainn																															
+Ficce				"Had two sons who, with Senoll Uathach, brought Cúchulainn back to Conaille to nurse his wounds after his fight with Ferdia"	M	Senoll Uathach	Cúchulainn																															
+Cúchulainn					M	Senoll Uathach	Ficce	Cethern	Laeg	Fiacha Mac Fir Febe	Fingin		Medb	Illann	Oll	Oichne	Bun	Mecon	Braen																			
+Cúchulainn						Láréne	Cúroi Mac Dáiri	Scenb	Rann	Fodail	Cormac 5	Cormac 6	Mael Foga	Maine 2	Finn Bec	Munremur Mac Gerrcinn	Sualdam																					
+Mac Roth					M		Ailill Mac Mágach	Fergus Mac Roich																														
+Ailill Mac Mágach					M	Conchobor	Celtchar	Fergus Mac Roich	Mac Roth	Itholl	Fintan	Crimthann		Rochad Mac Faithemain	Finnabair	Oll	Oichne	Bun	Mecon																			
+Ailill Mac Mágach						Scenb	Rann	Fodail	Cormac Connlongas																													
+Fergus Mac Roich					M	Cethern	Ailill Mac Mágach	Mac Roth	Fintan	Illann	Rochad Mac Faithemain	Medb	Sualdam																									
+Cethern				"So of Fintan. An Ulster warrior who charged the Connacht army on his own after Ulster rose from its pangs, he suffered grievous wounds and killed healers that told him he wouldn't survive. Fingin, Conchobor's healer, gave him the option to treat him for a whole year or in three days and three nights get his strength enough to fight one last time, he chose the second."	M	Fintan	Cúchulainn	Fingin	Finn Bec	Itholl	Crimthann				Finn Bec	Crimthann	Fergus Mac Roich	Itholl			Medb	Illann	Oll	Oichne	Bun	Mecon	Braen	Láréne		Scenb	Rann	Fodail	Cormac 5	Cormac 6	Maine Athramail	Maine Máthramail	Maine Cotagaib Uli	Itholl
+Fintan				"Cethern's father, he came to avenge Cethren with 150 men, only he and his son Crimthann survived"	M	Cethern	Crimthann	Ailill Mac Mágach	Conchobor																													
+Laeg					M	Cúchulainn	Fiacha Mac Fir Febe	Cethern	Rochad Mac Faithemain																													
+Fiacha Mac Fir Febe					M	Laeg	Cethern																															
+Fingin				Conchobor's healer	M	Conchobor	Cúchulainn	Cethern	Braen	Láréne																												
+Medb					F		Finnabair	Conchobor	Rochad Mac Faithemain	Fergus Mac Roich	Oll	Oichne	Scenb	Rann	Fodail						Cethern																	
+Illann				Fergus Mac Roich's son	M		Fergus Mac Roich														Cethern																	
+Oll				One of Ailill and Medb's foster sons who wounded Cethern with Oichne	M	Ailill Mac Mágach	Medb	Oichne													Cethern																	
+Oichne				One of Ailill and Medb's foster sons who wounded Cethern with Oll	M	Ailill Mac Mágach	Medb	Oll													Cethern																	
+Bun				"Trunk, one of the king's (Ailill) most trusted people who wounded Cethern with Mecon"	M	Ailill Mac Mágach	Mecon														Cethern																	
+Mecon				"Root, one of the king's (Ailill) most trusted people who wounded Cethern with Bun"	M	Ailill Mac Mágach	Bun														Cethern																	
+Braen				"Braen and Láréne, ""two sons of three lights"", the two sons of the forest king were two warriors of Medb's household, they wounded Cethern"	M	Medb	Láréne														Cethern																	
+Láréne				"Braen and Láréne, ""two sons of three lights"", the two sons of the forest king were two warriors of Medb's household, they wounded Cethern"	M	Medb	Braen														Cethern																	
+Cúroi Mac Dáiri	Cú Roí			"Three of his people, 'the three scabbards of Banba' wounded Cethern"	M		Munremur Mac Gerrcinn																															
+Scenb				"Carver, one of Ailill and Medb's stewards who wounded Cethern with Rann and Fodail"	M	Ailill Mac Mágach	Medb	Rann	Fodail												Cethern																	
+Rann				"Divider, one of Ailill and Medb's stewards who wounded Cethern with Scenb and Fodail"	M	Ailill Mac Mágach	Medb	Fodail	Scenb												Cethern																	
+Fodail				"Server, one of Ailill and Medb's stewards who wounded Cethern with Rann and Scenb"	M	Ailill Mac Mágach	Medb	Scenb	Rann												Cethern																	
+Cormac 5				"The king's pillar,"" he wounded Cethern with Cormac the son of Mael Foga	M							Cormac 6														Cethern																																																																																																																	"																																		
+Cormac 6				"Son of Mael Foga, he wounded Cethern with Cormac ""the king's pillar"""	M		Cormac 5	Mael Foga													Cethern																	
+Mael Foga				Father of Cormac 6	M	Cormac 6																																
+Maine Athramail				He wounded Cethren with Maine Máthramail	M																Cethern																	
+Maine Máthramail				He wounded Cethren with Maine Athramail	M																Cethern																	
+Maine Cotagaib Uli				He wounded Cethren with Ailill	M		Ailill Mac Mágach														Cethern																	
+Finn Bec				"Cethern's wife, daughter of Eochaid"	F	Cethern	Cúchulainn	Eochaid 10																														
+Eochaid 10						Finn Bec																																
+Itholl				"A healer who played dead after Cethren killed so many other healers, he went back to warn the Connacht army that Cethren was coming back"	M	Cethern	Ailill Mac Mágach														Cethern																	
+Crimthann				"Cethren's brother who went with his father and 150 men to avenge Cethren, only he and Fintan survived"	M	Cethern	Fintan	Ailill Mac Mágach	Conchobor																													
+Menn Mac Sálchada				"An Ulster warrior who attacked the Connacht army with 30 men, they killed 12 and lost 12 and Menn was also wounded so he returned to wait for Conchobor to fight the last battle"	M	Conchobor																																
+Conchobor					M	Menn Mac Sálchada	Fintan	Fingin	Sualdam	Ailill Mac Mágach	Fergus Mac Roich	Cúchulainn	Finnchad Fer Benn	Erc	Coirpre Niafer	Fedelm Noichride	Celtchar	Cúscraid Menn Macha	Deda	Leaman																		
+Conchobor						Fallach	Fergus Mac Roich	Illann	Dorlunsa	Derg Imderg	Fedilmid Cilair Chetaig	Faeladán	Rochad Mac Faithemain	Lugaid	Lugda	Cathbad	Coirpre of Aelai	Laeg	Gemen	Senoll Uathach																		
+Conchobor						Fintan	Cethren	Cethren of Eillne	Aurothor	Mulach	Amargin	Uathach	Ieth	Roth (Ulster)	Fiachna from the mound	Dam Dreimend	Andiaraid	Maine Mac Briathrach	Dam Derg	Mod																		
+Conchobor						Maithes	Irmaithis	Gabar	Eochaid from Saimne	Eochaid from Latharnu	Uma Mac Remanfisig	Munremur Mac Gerrcinn	Senlobair	Follamain	Lugaid of Laigi Líne	Buadgalach	Ambuach	Fergna	Aine	Errge Echbél																		
+Conchobor						Abra	Celtchar	Laegaire Milbél	Dromscailt Mac Dregamm	Drenda	Drendas	Cimbe	Cimling	Cimmene	Facthna Mac Sencha	Sencha	Senchairthe	Briccir	Bricirne	Breic																		
+Conchobor						Buan	Bairech	Aengus Mac Léte	Fergus Mac Léte	Léte	Aengus of the Fir Bolg	Bruchur	Alamiach	Fiachna of Cuailnge	Conall Cernach	Connad Mac Morna	Cúchulainn	Amargin of Es Ruaid	Laeg of Léire	Sálchada																		
+Conchobor						Cúroi Mac Amargin	Aengus Fer Benn Uma	Ogma Grianainech	Eo Mac nOircne	Tollchenn	Mogol Echbél	Connla Saeb	Laegaire Buadach	Ailill Mac Amargin	Furbaide Fer Benn	Cúscraid Menn	Lí	Fingin	Cremath	Blai Fichit																		
+Conchobor						Blai Briuga	Eoghan Mac Durthacht	Dord	Seirid	Serthe	Oblan	Cuirther	Liana	Fernel	Finnchad of Sliabh Bethe	Talgobain	Menn Mac Sálchada	Iroll of Blarigi	Tibraide Mac Ailcotha	Iala																		
+Conchobor						Rus Mac Ailcotha	Maine Mac Cruim	Ninnech Mac Cruinn	Dipsemilid	Mál Mac Rochrad	Muinne (Ulster)	Fiatach Ferndoirre	Dubthach	Muirne Menn																								
+Rochad Mac Faithemain				"An Ulster warrior Cúchulainn sent for after Ulster rose from its pangs, Finnabair thought he was the most handsome hero in Ulster and slept with him. After hearing this some of the Munster kings who had been promised Finnabair separately grew angry and Ailill and Medb's army fought amongst themselves killing 700 men. Rochad was returned to Ulster to join Conchobor in the last battle. Finnabair died of shame after hearing 700 men died because of her."	M	Laeg	Finnabair	Fergus Mac Roich																														
+Finnabair				Finnabair died of shame after 700 men died because of her (see Rochad)	F	Ailill Mac Mágach	Medb	Rochad Mac Faithemain																														
+Ilech				"Father of Connad the Yellow-haired and Laegaire Buadach's grandfather, he went to the Connacht army naked and made a trench of marrow out of Connachtmen's bones. Dóchae cut off his head and gave in to Laegaire"	M	Laegaire	Connad the Yellow-haired														Dóchae																	
+Laegaire					M	Connad the Yellow-haired	Ilech	Dóchae																														
+Connad the Yellow-haired	Connad Buidi			Son of Ilech and Laegaire Buadach's father	M	Ilech	Laegaire																															
+Dóchae					M		Laegaire														Ilech																	
+Munremur Mac Gerrcinn				"An Ulster warrior who came to help Cúchulainn as Ulster rose from its pangs, he made an arrangement with Cúroi and they each went back to their homes"	M	Cúchulainn	Cúroi Mac Dáiri																															
+Sualdam				"He came to aid Cúchulainn as Ulster rose from its pangs but Cúchulainn did not want him there as if he was killed he would have no strenght to avenge him so he sent him to Emain Macha to warn Ulster of what was happening, he tripped at Emain Macha and the rim of his shield cut his head off, his head still shouted the warning"	M	Cúchulainn	Conchobor	Ailill Mac Mágach	Fergus Mac Roich																													
+Finnchad Fer Benn				"The Horned Man, son of Conchobor. Conchobor asked him to summon all the Ulster chieftains"	M	Conchobor	Deda	Leaman	Fallach	Fergus Mac Roich	Illann	Dorlunsa	Derg Imderg	Fedilmid Cilair Chetaig	Faeladán	Rochad Mac Faithemain	Lugaid	Lugda	Cathbad	Coirpre of Aelai																		
+Finnchad Fer Benn					M	Laeg	Gemen	Senoll Uathach	Fintan	Cethren	Cethren of Eillne	Aurothor	Mulach	Amargin	Uathach	Ieth	Roth (Ulster)	Fiachna from the mound	Dam Dreimend	Andiaraid																		
+Finnchad Fer Benn					M	Maine Mac Briathrach	Dam Derg	Mod	Maithes	Irmaithis	Gabar	Eochaid from Saimne	Eochaid from Latharnu	Uma Mac Remanfisig	Munremur Mac Gerrcinn	Senlobair	Follamain	Lugaid of Laigi Líne	Buadgalach	Ambuach																		
+Finnchad Fer Benn					M	Fergna	Aine	Errge Echbél	Abra	Celtchar	Laegaire Milbél	Dromscailt Mac Dregamm	Drenda	Drendas	Cimbe	Cimling	Cimmene	Facthna Mac Sencha	Sencha	Senchairthe																		
+Finnchad Fer Benn					M	Briccir	Bricirne	Breic	Buan	Bairech	Aengus Mac Léte	Fergus Mac Léte	Léte	Aengus of the Fir Bolg	Bruchur	Alamiach	Fiachna of Cuailnge	Conall Cernach	Connad Mac Morna	Cúchulainn																		
+Finnchad Fer Benn					M	Amargin of Es Ruaid	Laeg of Léire	Sálchada	Cúroi Mac Amargin	Aengus Fer Benn Uma	Ogma Grianainech	Eo Mac nOircne	Tollchenn	Mogol Echbél	Connla Saeb	Laegaire Buadach	Ailill Mac Amargin	Furbaide Fer Benn	Cúscraid Menn	Lí																		
+Finnchad Fer Benn					M	Fingin	Cremath	Blai Fichit	Blai Briuga	Eoghan Mac Durthacht	Dord	Seirid	Serthe	Oblan	Cuirther	Liana	Fernel	Finnchad of Sliabh Bethe	Talgobain	Menn Mac Sálchada																		
+Finnchad Fer Benn					M	Iroll of Blarigi	Tibraide Mac Ailcotha	Iala	Rus Mac Ailcotha	Maine Mac Cruim	Ninnech Mac Cruinn	Dipsemilid	Mál Mac Rochrad	Muinne (Ulster)	Fiatach Ferndoirre	Dubthach	Muirne Menn																					
+Deda				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Leaman				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Fallach	Illann																													
+Fallach				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Leaman	Illann																													
+Fergus Mac Roich				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Illann	Leaman																													
+Illann				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Leaman	Fallach																													
+Dorlunsa				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Fergus Mac Roich	Leaman	Fallach																												
+Derg Imderg				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Fedilmid Cilair Chetaig				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Faeladán				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Rochad Mac Faithemain																														
+Rochad Mac Faithemain				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Faeladán																														
+Lugaid	Maybe Lugaid 2 (check)			An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Lugda																														
+Lugda				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Lugaid																														
+Cathbad				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Coirpre of Aelai				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Laeg				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Gemen																														
+Gemen				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Laeg																														
+Senoll Uathach				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Fintan				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Cethren																														
+Cethren	Cethern!!!!			An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Fintan																														
+Cethren of Eillne				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Aurothor				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Mulach				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Amargin				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Uathach				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Ieth				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Roth (Ulster)	Fiachna from the mound																													
+Roth (Ulster)				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Ieth	Fiachna from the mound																													
+Fiachna from the mound				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Ieth	Roth (Ulster)																													
+Dam Dreimend				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Andiaraid				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Maine Mac Briathrach																														
+Maine Mac Briathrach				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Andiaraid																														
+Dam Derg				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Mod				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Maithes																														
+Maithes				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Mod																														
+Irmaithis				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Gabar				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Eochaid from Saimne				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Eochaid from Latharnu																														
+Eochaid from Latharnu				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Eochaid from Saimne																														
+Uma Mac Remanfisig				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Munremur Mac Gerrcinn				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Muinne (Ulster)																														
+Senlobair				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Follamain				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Lugaid of Laigi Líne				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Buadgalach				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Ambuach																														
+Ambuach				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Buadgalach																														
+Fergna				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Aine				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Errge Echbél																														
+Errge Echbél				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Aine																														
+Abra				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Celtchar				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Laegaire Milbél				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Dromscailt Mac Dregamm				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Drenda				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Drendas	Cimbe																													
+Drendas				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Drenda	Cimbe																													
+Cimbe				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Drenda	Drendas																													
+Cimling				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Cimmene																														
+Cimmene				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Cimling																														
+Facthna Mac Sencha				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Sencha																														
+Sencha				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Facthna Mac Sencha	Senchairthe																													
+Senchairthe				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Sencha																														
+Briccir				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Bricirne																														
+Bricirne				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Briccir																														
+Breic				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Buan	Bairech																													
+Buan				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Breic	Bairech																													
+Bairech				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Breic	Buan																													
+Aengus Mac Léte				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Léte	Fergus Mac Léte																													
+Fergus Mac Léte				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Léte	Aengus Mac Léte																													
+Léte				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Fergus Mac Léte	Aengus Mac Léte																													
+Aengus of the Fir Bolg				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Bruchur				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Alamiach																														
+Alamiach				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Bruchur																														
+Fiachna of Cuailnge				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Conall Cernach				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Connad Mac Morna				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Cúchulainn				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Amargin of Es Ruaid				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Laeg of Léire																														
+Laeg of Léire				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Amargin of Es Ruaid																														
+Sálchada				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Cúroi Mac Amargin																														
+Cúroi Mac Amargin				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Sálchada																														
+Aengus Fer Benn Uma				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Ogma Grianainech				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Eo Mac nOircne				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Tollchenn				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Mogol Echbél				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Connla Saeb				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Laegaire Buadach				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Ailill Mac Amargin				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Furbaide Fer Benn				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Cúscraid Menn				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Lí				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Fingin				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Cremath				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Blai Fichit	Blai Briuga																													
+Blai Fichit				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Cremath	Blai Briuga																													
+Blai Briuga				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Cremath	Blai Fichit																													
+Eoghan Mac Durthacht				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Dord				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Seirid	Serthe																													
+Seirid				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Dord	Serthe																													
+Serthe				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Dord	Seirid																													
+Oblan				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Cuirther				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Liana																														
+Liana				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Cuirther																														
+Fernel				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Finnchad of Sliabh Bethe																														
+Finnchad of Sliabh Bethe				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Fernel																														
+Talgobain				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Menn Mac Sálchada				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Iroll of Blarigi				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Tibraide Mac Ailcotha				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Iala				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Rus Mac Ailcotha				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Maine Mac Cruim				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Ninnech Mac Cruinn				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Dipsemilid				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Mál Mac Rochrad																														
+Mál Mac Rochrad				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Dipsemilid																														
+Muinne (Ulster)				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Munremur Mac Gerrcinn																														
+Fiatach Ferndoirre				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Dubthach																														
+Dubthach				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn	Fiatach Ferndoirre																														
+Muirne Menn				An Ulster warrior Conchobor told his son Finnchad to summon after Ulster rose from its pangs and realised Connacht were attacking them	M	Conchobor	Finnchad Fer Benn																															
+Erc				Son of Coirpre Niafer and Conchobor's daughter	M	Coirpre Niafer	Conchobor	Fedelm Noichride																														
+Coirpre Niafer					M	Erc	Conchobor	Fedelm Noichride																														
+Fedelm Noichride					F	Conchobor	Erc	Coirpre Niafer																														
+Celtchar					M	Conchobor																																
+Cúscraid Menn Macha					M	Conchobor																																
+Dubthach	Dubthach Dael				M	Nemain																																
+Nemain					F	Dubthach																																
+Cormac Connlongas					M	Ailill Mac Mágach																																
+Chapter 13: The companies advance																																						
+Medb					F	Ailill Mac Mágach	Fergus Mac Roich	Mac Roth																														
+Ailill Mac Mágach					M	Medb	Fergus Mac Roich	Mac Roth	Conchobor	Sencha Mac Ailella	Cúscraid Menn Macha	Eoghan Mac Durthacht																										
+Fergus Mac Roich					M	Medb	Ailill Mac Mágach	Mac Roth	Sencha Mac Ailella	Cúscraid Menn Macha	Eoghan Mac Durthacht	Laegaire	Munremur Mac Gerrcinn	Fedilmid Cilair Chetaig	Connad Mac Morna	Rochad Mac Faithemain	Fergus Mac Léte	Amargin	Celtchar																			
+Fergus Mac Roich						Feradach Finn Fechtnach	Errge Echbél	Fiachna Mac Conchoboir	Fiacha Mac Conchoboir	Rus Mac Fiachna	Dáire Mac Fiachna	Imchath Mac Fiachna	Menn Mac Sálchada	Fergna Mac Finnchaime	Furbaide Fer Benn																							
+Mac Roth					M	Medb	Ailill Mac Mágach	Fergus Mac Roich	Conall Cernach																													
+Conchobor					M	Sencha Mac Ailella	Cúscraid Menn Macha	Eoghan Mac Durthacht	Laegaire	Munremur Mac Gerrcinn	Fedilmid Cilair Chetaig	Connad Mac Morna	Rochad Mac Faithemain	Fergus Mac Léte	Amargin	Celtchar	Feradach Finn Fechtnach	Errge Echbél	Fiachna Mac Conchoboir																			
+Conchobor						Fiacha Mac Conchoboir	Rus Mac Fiachna	Dáire Mac Fiachna	Imchath Mac Fiachna	Menn Mac Sálchada	Fergna Mac Finnchaime	Furbaide Fer Benn																										
+Sencha Mac Ailella				Fergus describes him as the most eloquent man in Ulster	M	Conchobor	Fergus Mac Roich																															
+Cúscraid Menn Macha					M	Conchobor	Fergus Mac Roich																															
+Eoghan Mac Durthacht				King of Fernmag	M	Conchobor	Fergus Mac Roich																															
+Laegaire					M	Conchobor	Fergus Mac Roich																															
+Munremur Mac Gerrcinn					M	Conchobor	Fergus Mac Roich																															
+Fedilmid Cilair Chetaig				An Ulster champion	M	Conchobor	Fergus Mac Roich																															
+Connad Mac Morna				An Ulster champion	M	Conchobor	Fergus Mac Roich																															
+Rochad Mac Faithemain					M	Conchobor	Fergus Mac Roich																															
+Fergus Mac Léte				"King of Líne, foster-brother of Fergus Mac Roich"	M	Conchobor	Fergus Mac Roich																															
+Amargin				"Son of the smith of Ecet Salach, the grimy one, from Buais"	M	Conchobor	Ecet Salach	Fergus Mac Roich																														
+Ecet Salach						Amargin																																
+Celtchar					M	Conchobor	Fergus Mac Roich																															
+Feradach Finn Fechtnach				From the wood at Sliab Fuait. Fergus describes him as fair and righteous	M	Conchobor	Fergus Mac Roich																															
+Errge Echbél				From Brí Errgi	M	Conchobor	Fergus Mac Roich																															
+Fiachna Mac Conchoboir	Fiachna 1				M	Conchobor	Fiacha Mac Conchoboir		Fergus Mac Roich																													
+Fiacha Mac Conchoboir					M	Conchobor	Fiachna Mac Conchoboir		Fergus Mac Roich																													
+Rus Mac Fiachna				One of the three sons of Fiachna	M	Conchobor	Dáire Mac Fiachna	Imchath Mac Fiachna		Fergus Mac Roich																												
+Dáire Mac Fiachna				One of the three sons of Fiachna	M	Conchobor	Rus Mac Fiachna	Imchath Mac Fiachna		Fergus Mac Roich																												
+Imchath Mac Fiachna				One of the three sons of Fiachna	M	Conchobor	Rus Mac Fiachna	Dáire Mac Fiachna		Fergus Mac Roich																												
+Menn Mac Sálchada				From Corann	M	Conchobor	Fergus Mac Roich																															
+Fergna Mac Finnchaime				From Corann	M	Conchobor	Fergus Mac Roich																															
+Furbaide Fer Benn				The horned man	M	Conchobor	Fergus Mac Roich																															
+Conall Cernach					M	Conchobor																																
+Chapter 14 -- The Last Battle																																						
+Conchobor					M			Cormac Connlongas	Fachtna	Laegaire											Ailill Mac Mágach	Fergus Mac Roich																
+Ailill Mac Mágach					M		Traigthrén 2	Cúchulainn	Medb	Fergus Mac Roich											Conchobor																	
+Morrígan					F																																	
+Nét					M	Nemain	Badb																															
+Nemain					F	Nét	Badb																															
+Badb					F	Nét	Nemain																															
+Traigthrén 2					M	Ailill Mac Mágach																																
+Cúchulainn					M	Laeg	Fergus Mac Roich	Sualdam	Medb	Ailill Mac Mágach	Finnabair	Amargin									Medb																	
+Laeg					M	Cúchulainn	Fergus Mac Roich	Conchobor	Amargin	Conall Cernach	En																											
+Fachtna					M	Conchobor																																
+Laegaire					M	Conchobor																																
+Amargin						Cúchulainn	Laeg																															
+Conall Cernach					M	En	Conchobor	Cúchulainn	Laeg												Fergus Mac Roich																	
+En				Conall Cernach's charioteer	M	Conall Cernach	Cúchulainn	Laeg																														
+Medb					F	Ailill Mac Mágach		Fergus Mac Roich	Cúchulainn												Conchobor	Cúchulainn																
+Fergus Mac Roich					M	Medb	Ailill Mac Mágach			Cormac Connlongas	Donn Cuailnge	Finnbennach Ai									Conall Cernach	Conchobor																
+Cormac Connlongas					M	Fergus Mac Roich	Conchobor																															
+Donn Cuailnge					M		Fergus Mac Roich														Finnbennach Ai	Bricriu																
+Finnbennach Ai					M	Fergus Mac Roich															Donn Cuailnge	Bricriu																
+Bricriu				The men of Ireland agreed Bricriu should judge the two bulls fighting as he favoured his friend no more than his enemy. He was trampled to death as they fought.	M																																	
+Finnabair				Went back with Cúchulainn after the Táin (though she died of shame earlier)	F	Cúchulainn															Donn Cuailnge	Finnbennach Ai																
+Coirpre from Sliab Mis					M	Ailill Mac Mágach	Traigthrén 2																															
+Les in Luachair					M	Ailill Mac Mágach	Traigthrén 2																															
+Meid from Corpthe Loste					M	Ailill Mac Mágach	Traigthrén 2																															
+Buidir from the river Buas					M	Ailill Mac Mágach	Traigthrén 2																															
+Badb from the river Buaidnech					M	Ailill Mac Mágach	Traigthrén 2																															
+Buaideltach from the river Berba					M	Ailill Mac Mágach	Traigthrén 2																															
+Muredach from Marga					M	Ailill Mac Mágach	Traigthrén 2																															
+Laegaire from Lec Derg					M	Ailill Mac Mágach	Traigthrén 2																															
+Suibne from the river Siuir					M	Ailill Mac Mágach	Traigthrén 2																															
+Echtach from Ane					M	Ailill Mac Mágach	Traigthrén 2																															
+Dael from Eirc					M	Ailill Mac Mágach	Traigthrén 2																															
+Damach from Derg Derc					M	Ailill Mac Mágach	Traigthrén 2																															
+Bratruad from Loch Rí					M	Ailill Mac Mágach	Traigthrén 2																															
+Nelleth from Loch Eirne					M	Ailill Mac Mágach	Traigthrén 2																															
+Bresal from Bodg					M	Ailill Mac Mágach	Traigthrén 2																															
+Amalgad from Ai					M	Ailill Mac Mágach	Traigthrén 2																															
+Fiachra from Nemain Wood					M	Ailill Mac Mágach	Traigthrén 2																															
+Nechta from Muiresc Plain					M	Ailill Mac Mágach	Traigthrén 2																															
+Ruirech from Aigle					M	Ailill Mac Mágach	Traigthrén 2																															
+Bruchurs from the river Febrad					M	Ailill Mac Mágach	Traigthrén 2																															
+Conall from Collamair					M	Ailill Mac Mágach	Traigthrén 2																															
+Féic from Finnabair					M	Ailill Mac Mágach	Traigthrén 2																															
+Coirpre from Cliu					M	Ailill Mac Mágach	Traigthrén 2																															
+Maine Milscothach					M	Ailill Mac Mágach	Traigthrén 2																															
+Descertach from Drompa					M	Ailill Mac Mágach	Traigthrén 2																															
+Fintan from Femen Plain					M	Ailill Mac Mágach	Traigthrén 2																															
+Rathach from Raigne Plain					M	Ailill Mac Mágach	Traigthrén 2																															
+Eterscél from Eterbán					M	Ailill Mac Mágach	Traigthrén 2																															
+Guaire from Gabail					M	Ailill Mac Mágach	Traigthrén 2																															
+Aed from Aidne					M	Ailill Mac Mágach	Traigthrén 2																															
+Ailill Mac Mágach					M	Coirpre from Sliab Mis	Les in Luachair	Meid from Corpthe Loste	Buidir from the river Buas	Badb from the river Buaidnech	Buaideltach from the river Berba	Muredach from Marga	Laegaire from Lec Derg	Suibne from the river Siuir	Echtach from Ane	Dael from Eirc	Damach from Derg Derc	Bratruad from Loch Rí	Nelleth from Loch Eirne	Bresal from Bodg	Amalgad from Ai	Fiachra from Nemain Wood	Nechta from Muiresc Plain	Ruirech from Aigle	Bruchurs from the river Febrad	Conall from Collamair	Féic from Finnabair	Coirpre from Cliu	Maine Milscothach	Descertach from Drompa	Fintan from Femen Plain	Rathach from Raigne Plain	Eterscél from Eterbán	Guaire from Gabail	Aed from Aidne			
+Traigthrén 2					M	Coirpre from Sliab Mis	Les in Luachair	Meid from Corpthe Loste	Buidir from the river Buas	Badb from the river Buaidnech	Buaideltach from the river Berba	Muredach from Marga	Laegaire from Lec Derg	Suibne from the river Siuir	Echtach from Ane	Dael from Eirc	Damach from Derg Derc	Bratruad from Loch Rí	Nelleth from Loch Eirne	Bresal from Bodg	Amalgad from Ai	Fiachra from Nemain Wood	Nechta from Muiresc Plain	Ruirech from Aigle	Bruchurs from the river Febrad	Conall from Collamair	Féic from Finnabair	Coirpre from Cliu	Maine Milscothach	Descertach from Drompa	Fintan from Femen Plain	Rathach from Raigne Plain	Eterscél from Eterbán	Guaire from Gabail	Aed from Aidne			
