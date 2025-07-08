@@ -44,10 +44,12 @@
 13. Graph Edit Distance
     - Defines a function which computes graph edit distance using gklearn.ged.env library
 14. Run Graph Edit Distance
-    - Helcio Felippe's code from https://github.com/hfelippe/network-MI and https://www.nature.com/articles/s42005-024-01830-3 defines function which computes the network mutual information
-15. Run NMI Code
     - Cell used to run the code from the previous section
-16. Spearman's/Jaccard for Character Lists
+16. NMI (Network Mutual Information)
+    - Helcio Felippe's code from https://github.com/hfelippe/network-MI and https://www.nature.com/articles/s42005-024-01830-3 defines function which computes the network mutual information
+17. Run NMI Code
+    - Cell used to run the code from the previous section
+18. Spearman's/Jaccard for Character Lists
     - Defines functions which compute the Spearman's rankd and Jaccard index for comparing the character lists in terms of degree and betweennness
-17. Run Spearman/Jaccard
+19. Run Spearman/Jaccard
     - Cell used to run the code from the previous section
